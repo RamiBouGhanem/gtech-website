@@ -1,0 +1,4849 @@
+{
+  "source": "https://get-way.com/",
+  "retrieved": "2026-10-05",
+  "api": "https://get-way.com/wp-json/wc/store/v1/products",
+  "total": 483,
+  "unique_primary_images": 428,
+  "products": [
+    {
+      "source_id": 8533,
+      "name": "1/2 YMCKO Color Ribbon for Matica Espresso ll printer",
+      "url": "https://get-way.com/product/12-ymcko-color-ribbon-for-matica-espresso-ll-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PR000166.png",
+      "local_image": "images/products/7f8505eda18f0679.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8452,
+      "name": "100Lbs, 45kgs Mini Electromagnetic Lock",
+      "url": "https://get-way.com/product/100lbs-45kgs-mini-electromagnetic-lock/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PML-080.png",
+      "local_image": "images/products/8ca3a3521b407173.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8465,
+      "name": "1200Lbs, 540kgs Electromagnetic Lock (Double Door)",
+      "url": "https://get-way.com/product/1200lbs-540kgs-electromagnetic-lock-double-door/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PML-4100PML-4101.png",
+      "local_image": "images/products/d826102d6d71a721.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8467,
+      "name": "1200Lbs, 540kgs Electromagnetic Lock with door monitoring and Timer LED (Double Door)",
+      "url": "https://get-way.com/product/1200lbs-540kgs-electromagnetic-lock-with-door-monitoring-and-timer-led-double-door/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PML-4100PML-4101.png",
+      "local_image": "images/products/d826102d6d71a721.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8477,
+      "name": "125KHz ASK EM Proximity reader, Wiegand 26 bits",
+      "url": "https://get-way.com/product/125khz-ask-em-proximity-reader-wiegand-26-bits/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PC-301.png",
+      "local_image": "images/products/40349dc386015641.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8434,
+      "name": "1300Lb,600Kgs Weather Proof Electromagnetic Lock",
+      "url": "https://get-way.com/product/1300lb600kgs-weather-proof-electromagnetic-lock/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PGL-600F.png",
+      "local_image": "images/products/bfb7a93378e27e98.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7870,
+      "name": "16 Channel HD-AHD DVR",
+      "url": "https://get-way.com/product/16-channel-hd-ahd-dvr/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-AHD92116.jpg",
+      "local_image": "images/products/bbbc2ae8df3dd28f.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 8468,
+      "name": "330Lbs, 150kgs Electromagnetic Lock",
+      "url": "https://get-way.com/product/330lbs-150kgs-electromagnetic-lock/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PML-150.png",
+      "local_image": "images/products/51b5d5eb87abfb2a.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7839,
+      "name": "360° Fish Eye Camera (Analog 960P)",
+      "url": "https://get-way.com/product/360-fish-eye-camera-analog-960p/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/fish-eye.png",
+      "local_image": "images/products/dcfddc3c2b76ad8e.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7184,
+      "name": "3TAG PVC CARDS",
+      "url": "https://get-way.com/product/3tag-pvc-cards-part-c4521/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/c1-scaled.jpg",
+      "local_image": "images/products/141853e2b873e97e.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 7866,
+      "name": "4 Channel HD-AHD DVR",
+      "url": "https://get-way.com/product/4-channel-hd-ahd-dvr/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-AHD92104.jpg",
+      "local_image": "images/products/12bdb3dfd136eaa8.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7864,
+      "name": "4 Channel NVR with POE",
+      "url": "https://get-way.com/product/4-channel-nvr-with-poe/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-NVR041P.jpg",
+      "local_image": "images/products/86b1a3f3c014d032.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 8460,
+      "name": "600Lbs, 270Kgs Electromagnetic Lock (Double Door)",
+      "url": "https://get-way.com/product/600lbs-270kgs-electromagnetic-lock-double-door/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PML-3100PML-3101.png",
+      "local_image": "images/products/a303938ecd045744.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8454,
+      "name": "600Lbs, 270Kgs Electromagnetic Lock (PML-1100)",
+      "url": "https://get-way.com/product/600lbs-270kgs-electromagnetic-lock-pml-1100/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PML-11001101-1.png",
+      "local_image": "images/products/a08a12668459b9dd.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8459,
+      "name": "600Lbs, 270Kgs Electromagnetic Lock with door monitoring (PML-1101)",
+      "url": "https://get-way.com/product/600lbs-270kgs-electromagnetic-lock-with-door-monitoring-pml-1101/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PML-11001101-1.png",
+      "local_image": "images/products/a08a12668459b9dd.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7868,
+      "name": "8 Channel HD-AHD DVR",
+      "url": "https://get-way.com/product/8-channel-hd-ahd-dvr/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-AHD93108.png",
+      "local_image": "images/products/77259c6786b551b5.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7859,
+      "name": "8 Channel NVR with POE",
+      "url": "https://get-way.com/product/8-channel-nvr-with-poe/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-NVR081P.jpg",
+      "local_image": "images/products/edc418415de17ffc.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 9134,
+      "name": "AC-015 Single Door, PC Programmable 2 Reader Controller",
+      "url": "https://get-way.com/product/ac-015-single-door-pc-programmable-2-reader-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/ac-015-2.png",
+      "local_image": "images/products/41d43ec9176240a5.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9129,
+      "name": "AC-020 Dual Door Standalone Controller",
+      "url": "https://get-way.com/product/ac-020-dual-door-standalone-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/ac-020.jpg",
+      "local_image": "images/products/2dd721966920753e.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9109,
+      "name": "AC-225-E / AC-225-IPE Advanced Scalable Networked Access Controller",
+      "url": "https://get-way.com/product/ac-225-e-advanced-scalable-networked-access-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AC-225E-IMAGE.jpg",
+      "local_image": "images/products/eccb27e7b03e95bc.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9083,
+      "name": "AC-A42 Indoor Single-Door Stand-alone PIN &amp; Prox Controller",
+      "url": "https://get-way.com/product/ac-a42-indoor-single-door-stand-alone-pin-prox-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AC-A42-IMAGE.jpg",
+      "local_image": "images/products/a75852b55763c5a9.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9141,
+      "name": "AC-C31 Indoor Single-Door Mullion PIN Standalone Controller",
+      "url": "https://get-way.com/product/ac-c31-indoor-single-door-mullion-pin-standalone-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/AC-C31.jpg",
+      "local_image": "images/products/8361a6cad1816841.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9131,
+      "name": "AC-F43 Outdoor Backlit PIN Standalone Controller",
+      "url": "https://get-way.com/product/ac-f43-outdoor-backlit-pin-standalone-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/Controler-stand-alone-AC-F43-500x500.jpg",
+      "local_image": "images/products/b95d41b02fc9cc28.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9126,
+      "name": "AC-G44 Outdoor Mullion Backlit PIN &amp; Proximity Standalone Controller",
+      "url": "https://get-way.com/product/ac-g44-outdoor-mullion-backlit-pin-proximity-standalone-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/2-ac-g44.jpeg",
+      "local_image": "images/products/3a9e936da297a6d7.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9148,
+      "name": "AC-Q44 Anti-Vandal Piezo PIN &amp; Prox Standalone Controller",
+      "url": "https://get-way.com/product/ac-q44-anti-vandal-piezo-pin-prox-standalone-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/Rosslare_AC-Q44.jpg",
+      "local_image": "images/products/1cc17b4c302cc663.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9339,
+      "name": "ACE M1",
+      "url": "https://get-way.com/product/ace-m1/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/08/ACE-M1-photo-2.jpg",
+      "local_image": "images/products/78393fd581abdaf2.webp",
+      "source_categories": [
+        "Label Printers"
+      ]
+    },
+    {
+      "source_id": 7761,
+      "name": "ACOS3 16K CPU Smart Card",
+      "url": "https://get-way.com/product/acos3-16k-cpu-smart-card/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/06/2813-images-acos3-contact.png",
+      "local_image": "images/products/f5f56bb92dd44978.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7764,
+      "name": "ACOS5 32K CPU Smart Card",
+      "url": "https://get-way.com/product/acos5-32k-cpu-smart-card/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/06/2632-images-acos5-64.png",
+      "local_image": "images/products/4a21d3e6c8795609.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7694,
+      "name": "ACOS6 Multi-Application &amp; Purse Smart Card Software Development Kit",
+      "url": "https://get-way.com/product/acos6-multi-application-purse-smart-card-software-development-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/20110804170147lib_acos6sdk.png",
+      "local_image": "images/products/ff0178096bbfbef4.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7733,
+      "name": "ACR120 Smart Card Contactless Reader",
+      "url": "https://get-way.com/product/acr120-smart-card-contactless-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/ACR120SU.png",
+      "local_image": "images/products/8e5f821422d40e05.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7731,
+      "name": "ACR120 Software Development Kit (Contactless Smart Card Reader)",
+      "url": "https://get-way.com/product/acr120-software-development-kit-contactless-smart-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/ACR120_SDK_300dpi.jpg",
+      "local_image": "images/products/69199be3dceda7fd.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7270,
+      "name": "ACR122 USB NFC Reader",
+      "url": "https://get-way.com/product/acr122u-usb-nfc-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/20121229145506lib_acr122_1.png",
+      "local_image": "images/products/f4956ae89eb85d23.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7700,
+      "name": "ACR122L VisualVantage NFC Reader with LCD Software Development Kit",
+      "url": "https://get-way.com/product/acr122l-visualvantage-nfc-reader-with-lcd-software-development-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/20110804170543lib_acr122lsdk.png",
+      "local_image": "images/products/1403f2e29ec7bf0e.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7698,
+      "name": "ACR122U NFC Contactless Smart Card Reader Software Development Kit",
+      "url": "https://get-way.com/product/acr122u-nfc-contactless-smart-card-reader-software-development-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/20110804170530lib_acr122usdk.png",
+      "local_image": "images/products/33808c9398bfb85f.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 9198,
+      "name": "ACR1252U USB – NFC Forum Certified Reader",
+      "url": "https://get-way.com/product/acr1252u-usb-nfc-forum-certified-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/12/2.png",
+      "local_image": "images/products/903c788aab4813ee.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7541,
+      "name": "ACR128 DualBoost II USB Dual Interface Reader",
+      "url": "https://get-way.com/product/acr1281u-c1-dualboost-ii-usb-dual-interface-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/20121229150405lib_acr1281u_c1.png",
+      "local_image": "images/products/479c98bdfa09fe0b.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7975,
+      "name": "ACR1281U DualBoost II USB Dual Interface Reader",
+      "url": "https://get-way.com/product/acr1281u-dualboost-ii-usb-dual-interface-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/20121229150405lib_acr1281u_c1.png",
+      "local_image": "images/products/479c98bdfa09fe0b.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7703,
+      "name": "ACR128U-C1 DualBoost II Smart Card Reader Software Development Kit",
+      "url": "https://get-way.com/product/acr128u-c1-dualboost-ii-smart-card-reader-software-development-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/20120323124344lib_acr1281u_c1sdk.jpg",
+      "local_image": "images/products/98599a5343e4ab33.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 9177,
+      "name": "ACR1552U USB NFC Reader IV",
+      "url": "https://get-way.com/product/acr1552u-usb-nfc-reader-iv/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/11/12646-thumb.png",
+      "local_image": "images/products/88a5e124fb23ea39.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 9182,
+      "name": "ACR1581U DualBoost III USB Dual Interface Reader",
+      "url": "https://get-way.com/product/acr1581u-dualboost-iii-usb-dual-interface-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/11/12616-thumb.png",
+      "local_image": "images/products/e383eaf81b041531.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7557,
+      "name": "ACR31 Swipe Card Reader",
+      "url": "https://get-way.com/product/acr31-swipe-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/4710-images-acr31.png",
+      "local_image": "images/products/0953fa3d24754a94.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7561,
+      "name": "ACR32 MobileMate Card Reader",
+      "url": "https://get-way.com/product/acr32-mobilemate-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/3258-images-acr32.png",
+      "local_image": "images/products/e2ed9749f3bffea6.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7566,
+      "name": "ACR35 NFC MobileMate Card Reader",
+      "url": "https://get-way.com/product/acr35-nfc-mobilemate-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/4716-images-acr35.png",
+      "local_image": "images/products/bc361ac55e6191e8.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7747,
+      "name": "ACR38 Smart Card Reader Software Development Kit",
+      "url": "https://get-way.com/product/acr38-smart-card-reader-software-development-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/06/SDK-ACR38.jpg",
+      "local_image": "images/products/b7bbe1e657fc50ff.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7727,
+      "name": "ACR38K Keyboard Reader",
+      "url": "https://get-way.com/product/acr38k-keyboard-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/acr380k.png",
+      "local_image": "images/products/309bbd105cb7b898.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7530,
+      "name": "ACR38U-I1 Smart Card Reader",
+      "url": "https://get-way.com/product/acr38u-i1-smart-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/20121229124544acr38uti_side.png",
+      "local_image": "images/products/fd18e6d2445428d0.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7705,
+      "name": "ACR38U-N1 PocketMate Smart Card Reader",
+      "url": "https://get-way.com/product/acr38u-n1-pocketmate-smart-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/ACR38U.png",
+      "local_image": "images/products/650cd33e4279972f.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7537,
+      "name": "ACR3901U-S1 Secure Bluetooth Contact Card Reader",
+      "url": "https://get-way.com/product/acr3901u-s1-secure-bluetooth-contact-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/5077-images-acr3901u-s1.png",
+      "local_image": "images/products/2e3ba30336c6356a.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 9173,
+      "name": "ACR40U – Contact Smart Card Reader",
+      "url": "https://get-way.com/product/acr40u-contact-smart-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/11/12670.png",
+      "local_image": "images/products/7974cbc6c6b32e63.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7770,
+      "name": "ACR80 Smart Card Terminal Software Development Kit",
+      "url": "https://get-way.com/product/acr80-smart-card-terminal-software-development-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/06/sdk-acs80.jpg",
+      "local_image": "images/products/b1f1a602bd795fd9.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7552,
+      "name": "ACR83 PINeasy Smart Card Reader",
+      "url": "https://get-way.com/product/acr83-pineasy-smart-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/5536-images-acr83.png",
+      "local_image": "images/products/199f4e1e4831074a.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7767,
+      "name": "ACR83 PINeasy Smart Card Reader Software Development Kit",
+      "url": "https://get-way.com/product/acr83-pineasy-smart-card-reader-software-development-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/06/ACR83-sdk.jpg",
+      "local_image": "images/products/b8dae586f55d4592.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7759,
+      "name": "ACR88 Pinpad Smart Card Reader",
+      "url": "https://get-way.com/product/acr88-pinpad-smart-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/06/Acr88U-FPA-R.png",
+      "local_image": "images/products/8f35f190c3d559d3.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7744,
+      "name": "ACR88 Smart Card Reader",
+      "url": "https://get-way.com/product/acr88-smart-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/Acr88U-R.png",
+      "local_image": "images/products/56f4971a91db764f.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7749,
+      "name": "ACR88 Software Development Kit (Handheld Portable Smart Card Reader)",
+      "url": "https://get-way.com/product/acr88-software-development-kit-handheld-portable-smart-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/06/ACR88_SDK.jpg",
+      "local_image": "images/products/d8b1482f9b0bed3c.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7696,
+      "name": "ACR890 All-In-One Mobile Smart Card Terminal Software Development Kit",
+      "url": "https://get-way.com/product/acr890-all-in-one-mobile-smart-card-terminal-software-development-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/4469-images-acr890-sdk.png",
+      "local_image": "images/products/e1a2341176af9320.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 9143,
+      "name": "AC–115 Compact Networked Single Door Controller",
+      "url": "https://get-way.com/product/ac-115-compact-networked-single-door-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/full-ac-115.jpg",
+      "local_image": "images/products/d76c1f17f792d361.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 7424,
+      "name": "Adhesive Card Cleaning Kit for Laminator",
+      "url": "https://get-way.com/product/adhesive-card-cleaning-kit-for-laminator/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/A5070.jpg",
+      "local_image": "images/products/5e578422efa10bcf.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 7406,
+      "name": "Adhesive Cleaning Card",
+      "url": "https://get-way.com/product/adhesive-card-cleaning-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/acl003.jpg",
+      "local_image": "images/products/4341dd551e9e11fc.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 7412,
+      "name": "Adhesive Cleaning Card for Avansia",
+      "url": "https://get-way.com/product/adhesive-card-cleaning-kit-for-avansia/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/15213635937_767da00497_b.jpg",
+      "local_image": "images/products/6a5a2d044ac5ff00.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 8148,
+      "name": "Adhesive Cleaning Card for Edikio ACL003",
+      "url": "https://get-way.com/product/adhesive-cleaning-card-for-edikio-acl003/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/acl003.jpg",
+      "local_image": "images/products/4341dd551e9e11fc.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7404,
+      "name": "Advanced Cleaning Kit",
+      "url": "https://get-way.com/product/advanced-cleaning-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/ACL002.jpg",
+      "local_image": "images/products/95f6eb70d4babdac.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 7861,
+      "name": "Advantage M20 Embosser",
+      "url": "https://get-way.com/product/advantage-m20-embosser/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/advantage_m20.png",
+      "local_image": "images/products/fc15f9f2f45f27ac.webp",
+      "source_categories": [
+        "Embossers"
+      ]
+    },
+    {
+      "source_id": 9501,
+      "name": "Agilia High-Quality Retransfer Printing",
+      "url": "https://get-way.com/product/agilia-high-quality-retransfer-printing/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/10/e3a9703a2b509af4403f8260b937a7c1.jpeg",
+      "local_image": "images/products/9f614763b735b5ab.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 9548,
+      "name": "AIR60U – ePassport Reader",
+      "url": "https://get-way.com/product/air60u-epassport-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2025/10/TSP-AIR60U-1.bmp",
+      "local_image": "images/products/53ce5e838da0f7ee.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 8385,
+      "name": "Anti-lightening Protection Module",
+      "url": "https://get-way.com/product/anti-lightening-protection-module/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PXTH-01.png",
+      "local_image": "images/products/c1306cac7d665347.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8740,
+      "name": "AP02 Android Pos Terminal",
+      "url": "https://get-way.com/product/ap02-android-pos-terminal/",
+      "source_image": "https://get-way.com/wp-content/uploads/2021/03/AP02-Blue.png",
+      "local_image": "images/products/efc60b0236258e77.webp",
+      "source_categories": [
+        "Data collectors"
+      ]
+    },
+    {
+      "source_id": 8983,
+      "name": "AURA – P6 – Remote 16-zone MatrixBus™",
+      "url": "https://get-way.com/product/aura-p6-remote-16-zone-matrixbus/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AURA-P6-1.jpg",
+      "local_image": "images/products/f783f3b56422421c.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 8997,
+      "name": "AuraSysTM KE-16 – LED 16 Zone Keypad for the AuraSys P6 Wired Panel",
+      "url": "https://get-way.com/product/aurasys-kc-16-lcd-16-zone-keypad-for-the-aurasys-p6-wired-panel/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/MATRIXBUS-KE-16-1.jpg",
+      "local_image": "images/products/345260fc8f6f80b3.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9001,
+      "name": "AuraSys™ KC-16 – LCD 16-Zone Keypad for the AuraSys P6 Wired Panel",
+      "url": "https://get-way.com/product/aurasys-kc-16-lcd-16-zone-keypad-for-the-aurasys-p6-wired-panel-2/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/KC-16-1.jpg",
+      "local_image": "images/products/999b8d4c1daf17f6.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9064,
+      "name": "AuraSys™ MatrixBUS™ XO-04 – 4 PGM expansion",
+      "url": "https://get-way.com/product/aurasys-matrixbus-xo-04-4-pgm-expansion/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AY-U910US-1.jpg",
+      "local_image": "images/products/70c7c6fc4dc5046f.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 7127,
+      "name": "Avansia Duplex Expert",
+      "url": "https://get-way.com/product/avansia-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/avansia-2.jpg",
+      "local_image": "images/products/a89b22689e6c1354.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 9151,
+      "name": "AY-CF64 3×4 Backlit Proximity &amp; PIN Convertible Reader / Controller",
+      "url": "https://get-way.com/product/ay-cf64-3x4-backlit-proximity-pin-convertible-reader-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/rosslare-ayc-f64.jpg",
+      "local_image": "images/products/172290d9860618f2.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 8985,
+      "name": "AY-CR11W – Indoor Mullion Proximity Reader with Bell Button",
+      "url": "https://get-way.com/product/ay-cr11w-indoor-mullion-proximity-reader-with-bell-button/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AY-CR11W-1.jpg",
+      "local_image": "images/products/df3a3414e7404a51.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9085,
+      "name": "AY-F66 Outdoor PIN &amp; Proximity Reader with Time/Date LED Display",
+      "url": "https://get-way.com/product/ay-f66-outdoor-pin-proximity-reader-with-timedate-led-display/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AYF66-IMAGE.jpg",
+      "local_image": "images/products/bf49de7e498b14d2.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9087,
+      "name": "AY-H20B US Gang Box Sized Multi Format Proximity Reader",
+      "url": "https://get-way.com/product/ay-h20b-us-gang-box-sized-multi-format-proximity-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AY-H20B-IMAGE.jpg",
+      "local_image": "images/products/895462cae449f11a.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9089,
+      "name": "AY-HR12B US Single Gang PROX Reader",
+      "url": "https://get-way.com/product/ay-hr12b-us-single-gang-prox-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AY-HR12B-IMAGE.jpg",
+      "local_image": "images/products/467ba7a42e6f4231.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 8987,
+      "name": "AY-R12 – Outdoor RGB Illuminated Reader",
+      "url": "https://get-way.com/product/ay-r12-outdoor-rgb-illuminated-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AY-R12-Datasheet-v00-230614-English-A4-1.jpg",
+      "local_image": "images/products/b001e1a023f3130c.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9058,
+      "name": "AY-U910 UHF Integrated Long-Range Reader",
+      "url": "https://get-way.com/product/ay-u910-uhf-integrated-long-range-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AY-U910US-1.jpg",
+      "local_image": "images/products/70c7c6fc4dc5046f.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9091,
+      "name": "AY-W6250 MIFARE® Contactless Smartcard Reader",
+      "url": "https://get-way.com/product/ay-w6250-mifare-contactless-smartcard-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AY-W6250-IMAGE.jpg",
+      "local_image": "images/products/d7935d78acd9bb42.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9060,
+      "name": "AY-Z12A Long Range Outdoor Proximity Reader",
+      "url": "https://get-way.com/product/ay-z12a-long-range-outdoor-proximity-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/AY-Z12A-Datasheet-v00-130512-English-A4-1.jpg",
+      "local_image": "images/products/61275440ff1d55c0.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 7679,
+      "name": "Backdrop",
+      "url": "https://get-way.com/product/backdrop/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/5960119_RE2018.jpg",
+      "local_image": "images/products/1f9893c03426cad2.webp",
+      "source_categories": [
+        "Others"
+      ]
+    },
+    {
+      "source_id": 7389,
+      "name": "Badgy BLACK Monochrome Ribbon",
+      "url": "https://get-way.com/product/badgy-black-monochrome-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/CBGR0500K.jpg",
+      "local_image": "images/products/301701452d23b0cf.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7366,
+      "name": "Badgy YMCKO color ribbon",
+      "url": "https://get-way.com/product/badgy-ymcko-color-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/02/CBGR0100C.jpg",
+      "local_image": "images/products/183424715e07535b.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7121,
+      "name": "Badgy200 card printer",
+      "url": "https://get-way.com/product/badgy200-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/2bis.jpg",
+      "local_image": "images/products/9f079231eead2053.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 7821,
+      "name": "Barcode Scanner AS-8020",
+      "url": "https://get-way.com/product/barcode-scanner-as-8020/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/cordless-scanners-500x500.jpg",
+      "local_image": "images/products/f1e9b06151597aa0.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 7307,
+      "name": "Barcode Scanner AS-8310",
+      "url": "https://get-way.com/product/as-8310/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/38-1.jpg",
+      "local_image": "images/products/ec0b680f034ade73.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 7823,
+      "name": "Barcode Scanner AS-9500",
+      "url": "https://get-way.com/product/barcode-scanner-as-9500/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/AS-9500HD.jpg",
+      "local_image": "images/products/5f73068b5cefb643.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 7302,
+      "name": "Bardode scanner AS-8000",
+      "url": "https://get-way.com/product/as-8000/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/34-3.jpg",
+      "local_image": "images/products/0d7d7ab05cef7d0e.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 8689,
+      "name": "Bend Remedy Module for XID series Single Sided printers",
+      "url": "https://get-way.com/product/bend-remedy-module-for-xid-series-single-sided-printers/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/xid-8300-bend-remedy-module-1.jpg",
+      "local_image": "images/products/616076929c481708.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 7586,
+      "name": "BioEntry Plus",
+      "url": "https://get-way.com/product/bioentry-plus/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/BioEntryPlus-02.jpg",
+      "local_image": "images/products/9451c8985a836efe.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 7584,
+      "name": "BioEntry W",
+      "url": "https://get-way.com/product/bioentry-w/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/bioentry-W.jpg",
+      "local_image": "images/products/10f7a8c1b177f246.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 7582,
+      "name": "BioLite Net",
+      "url": "https://get-way.com/product/biolite-net/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/biolite-net.jpg",
+      "local_image": "images/products/0d1b0a501fdc0f3b.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 7588,
+      "name": "BioMini",
+      "url": "https://get-way.com/product/biomini/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/news6.jpg",
+      "local_image": "images/products/4dae5d8c6fc0d8b0.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 7589,
+      "name": "BioMini Combo",
+      "url": "https://get-way.com/product/biomini-combo/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/biominicombo_mainbanner.jpg",
+      "local_image": "images/products/bbea56637f4c2c74.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 9493,
+      "name": "BioPro SA40",
+      "url": "https://get-way.com/product/biopro-sa40/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/10/zk-BioPro-SA40-scaled.jpg",
+      "local_image": "images/products/121a2d34d4a9c8b6.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 7578,
+      "name": "BioStation 2",
+      "url": "https://get-way.com/product/biostation-2/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/BioStation2-2000pxls.png",
+      "local_image": "images/products/a8a15af9812a010c.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 7280,
+      "name": "Biostation L2",
+      "url": "https://get-way.com/product/biostation-l2/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/biosuprema.jpg",
+      "local_image": "images/products/f9706d068280c71f.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 9093,
+      "name": "BL-D40 External Sounder",
+      "url": "https://get-way.com/product/bl-d40-external-sounder/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/BL-D40-IMAGE.jpg",
+      "local_image": "images/products/92290559b15199a1.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 8683,
+      "name": "Box of 100 sticky cards for Espresso printer",
+      "url": "https://get-way.com/product/box-of-100-sticky-cards-for-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/pr000205.png",
+      "local_image": "images/products/a4613fd45cd2f9d9.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 9095,
+      "name": "BR-11 / BR-41 Bracket Adaptor",
+      "url": "https://get-way.com/product/br-11-br-41-bracket-adaptor/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/BR-11-IMAGE.png",
+      "local_image": "images/products/ff922981fbba9ec0.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9062,
+      "name": "BR-12 Smart Swivel Wall/Ceiling Bracket",
+      "url": "https://get-way.com/product/br-12-smart-swivel-wallceiling-bracket/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/BR-12-IMAGE.jpg",
+      "local_image": "images/products/8f2530a1015b66ea.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 8989,
+      "name": "BR-41 Swivel Bracket",
+      "url": "https://get-way.com/product/br-41-swivel-bracket/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/BR-41.jpg",
+      "local_image": "images/products/2ab7415bd3d79c39.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9137,
+      "name": "BT-05 Rechargeable Battery",
+      "url": "https://get-way.com/product/bt-05-rechargeable-battery/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/BT-05.jpeg",
+      "local_image": "images/products/e7591c7d1f5889b8.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 8276,
+      "name": "BT310 Bluetooth CCD Barcode Scanner",
+      "url": "https://get-way.com/product/bt310-bluetooth-ccd-barcode-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/04/HT310HT800R.png",
+      "local_image": "images/products/c19b6226eb576472.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 8277,
+      "name": "BT390 Bluetooth Laser Barcode Scanner",
+      "url": "https://get-way.com/product/bt390-bluetooth-laser-barcode-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/04/HT900-Laser-Scanner.png",
+      "local_image": "images/products/6311722c8260a055.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 8368,
+      "name": "Cabinet Lock With Fail-Safe / Fail-Secure Adjustable Function",
+      "url": "https://get-way.com/product/cabinet-lock-with-fail-safe-fail-secure-adjustable-function/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PCL-100.png",
+      "local_image": "images/products/183d0c2e78bbaf0f.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7958,
+      "name": "Call Mynah Call Recorder",
+      "url": "https://get-way.com/product/call-mynah-call-recorder/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/11/callmynahflat.jpg",
+      "local_image": "images/products/f669b5f9b31a8250.webp",
+      "source_categories": [
+        "Others"
+      ]
+    },
+    {
+      "source_id": 7681,
+      "name": "Camera Tripod",
+      "url": "https://get-way.com/product/camera-tripod/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/wt-3570_1-11569-675x502.jpg",
+      "local_image": "images/products/67e61f32f434f9a5.webp",
+      "source_categories": [
+        "Others"
+      ]
+    },
+    {
+      "source_id": 7857,
+      "name": "Car Camera",
+      "url": "https://get-way.com/product/car-camera/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-4106.jpg",
+      "local_image": "images/products/ccce7576750df16d.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7835,
+      "name": "Car Plate Number Recognition Camera",
+      "url": "https://get-way.com/product/car-plate-number-recognition-camera/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-CPHZ70EVI-copy.png",
+      "local_image": "images/products/b5c6c1508ecc5b90.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7219,
+      "name": "CardPresso card designer software",
+      "url": "https://get-way.com/product/cardpresso-card-designer-software/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/VISUEL-CARDPRESSO-COUV-v4.jpg",
+      "local_image": "images/products/ae14da6c07d13d55.webp",
+      "source_categories": [
+        "Software"
+      ]
+    },
+    {
+      "source_id": 8644,
+      "name": "Cleaning Kit for XID8100 &amp; XID8300 re-transfer printers",
+      "url": "https://get-way.com/product/cleaning-kit-for-xid8100-xid8300-re-transfer-printers/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/DIK10044.png",
+      "local_image": "images/products/2e8c2f098dfe654b.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 8951,
+      "name": "Cleaning Kit for Zebra ZXP8 series",
+      "url": "https://get-way.com/product/cleaning-kit-for-zebra-zxp8-series/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/05/zxp-8-cleaning-supplies-300x300.jpg",
+      "local_image": "images/products/4d047391d324202c.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 7182,
+      "name": "Cleaning Material – Part# A50",
+      "url": "https://get-way.com/product/cleaning-material-part-a50/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/A5011_new.jpg",
+      "local_image": "images/products/7a1400b399e1cef0.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 7180,
+      "name": "Cleaning Material – Part# ACL",
+      "url": "https://get-way.com/product/cleaning-material-part-acl/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/ACL002Pack-Advanced-cleaning-kit_0.jpg",
+      "local_image": "images/products/d83cc3dcc17a6a95.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 8672,
+      "name": "Cleaning Pen for Espresso printer",
+      "url": "https://get-way.com/product/cleaning-pen-for-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/pr000204.jpg",
+      "local_image": "images/products/515eb271ac69c4f5.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 8670,
+      "name": "Cleaning Swab for Espresso printer",
+      "url": "https://get-way.com/product/cleaning-swab-for-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/acl007-scaled.jpg",
+      "local_image": "images/products/f17321e3b1bd400c.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 7394,
+      "name": "Clear Transfer Film",
+      "url": "https://get-way.com/product/clear-transfer-film/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/clear_transfer_film_640480.jpg",
+      "local_image": "images/products/5b6dca8462ee8c3f.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7153,
+      "name": "Core card printer",
+      "url": "https://get-way.com/product/core-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/core2.jpg",
+      "local_image": "images/products/3ce136a304b5e78f.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 9689,
+      "name": "CoreStation CS40 – Intelligent Biometric Controller",
+      "url": "https://get-way.com/product/corestation-cs40-intelligent-biometric-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/08/1-1.jpg",
+      "local_image": "images/products/8d7cd1b51f91252a.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8195,
+      "name": "Cristal price ticket stand (120mm height)",
+      "url": "https://get-way.com/product/cristal-price-ticket-stand-120mm-height/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/ac000012.jpg",
+      "local_image": "images/products/8b8fb334965f3b27.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8193,
+      "name": "Cristal price ticket stand (80mm height)",
+      "url": "https://get-way.com/product/cristal-price-ticket-stand-80mm-height/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/ac000011.jpg",
+      "local_image": "images/products/e355e0500cef6af5.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7723,
+      "name": "CRYPTOMATE (Client Kit)",
+      "url": "https://get-way.com/product/cryptomate-client-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/cryptomate-evk.png",
+      "local_image": "images/products/7574c0b3ff8b23c8.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 8358,
+      "name": "Dead Bolt Mechanical Lock",
+      "url": "https://get-way.com/product/dead-bolt-mechanical-lock/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/MK-338.png",
+      "local_image": "images/products/da1d0485af79074b.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7618,
+      "name": "Digital access control keypad (150 door codes for two doors access control)",
+      "url": "https://get-way.com/product/digital-access-control-keypad-150-door-codes-for-two-doors-access-control/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/Digital-access-control-keypad-PG-105K.jpg",
+      "local_image": "images/products/cf90258a0b6b9f39.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8449,
+      "name": "Door Loop",
+      "url": "https://get-way.com/product/door-loop/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PL-35.png",
+      "local_image": "images/products/6733012ed7287bb4.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 9229,
+      "name": "DS-Q50S Quantum Tripod Gate",
+      "url": "https://get-way.com/product/ds-q50s-quantum-tripod-gate/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/01/1.jpg",
+      "local_image": "images/products/b2c4e6d4c99bfc39.webp",
+      "source_categories": [
+        "Tripods"
+      ]
+    },
+    {
+      "source_id": 9236,
+      "name": "DS1000 SINGLE / BI-DIRECTION",
+      "url": "https://get-way.com/product/ds1000-single-bi-direction/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/01/DS1000-1.jpg",
+      "local_image": "images/products/810f416c796cb110.webp",
+      "source_categories": [
+        "Tripods"
+      ]
+    },
+    {
+      "source_id": 7335,
+      "name": "DS101",
+      "url": "https://get-way.com/product/ds101/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/tripod.jpg",
+      "local_image": "images/products/8aeca5315702062c.webp",
+      "source_categories": [
+        "Tripods"
+      ]
+    },
+    {
+      "source_id": 9245,
+      "name": "DS101 Tripod Turnstile",
+      "url": "https://get-way.com/product/ds101-tripod-turnstile/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/01/1-1.jpg",
+      "local_image": "images/products/a2d0f95d0034f0df.webp",
+      "source_categories": [
+        "Tripods"
+      ]
+    },
+    {
+      "source_id": 9248,
+      "name": "DS103N Tripod Turnstile",
+      "url": "https://get-way.com/product/ds103n-tripod-turnstile/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/01/tripod-turnstile-ds103-1.jpg",
+      "local_image": "images/products/6f8a283decfcf592.webp",
+      "source_categories": [
+        "Tripods"
+      ]
+    },
+    {
+      "source_id": 9240,
+      "name": "DS112 – Tripod Turnstile",
+      "url": "https://get-way.com/product/ds112-tripod-turnstile/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/01/tripod-turnstile-ds112-1.jpg",
+      "local_image": "images/products/71b0407a688db85b.webp",
+      "source_categories": [
+        "Tripods"
+      ]
+    },
+    {
+      "source_id": 9256,
+      "name": "DS318 Optical Flap Turnstile",
+      "url": "https://get-way.com/product/ds318-optical-flap-turnstile/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/01/3.jpg",
+      "local_image": "images/products/55821b899f7be73d.webp",
+      "source_categories": [
+        "Tripods"
+      ]
+    },
+    {
+      "source_id": 9226,
+      "name": "DSN-50 Nebula Tripod Turnstile",
+      "url": "https://get-way.com/product/dsn-50-nebula-tripod-turnstile/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/01/DSN-50-1.png",
+      "local_image": "images/products/8b46b38315acb776.webp",
+      "source_categories": [
+        "Tripods"
+      ]
+    },
+    {
+      "source_id": 9251,
+      "name": "DSSP6002S RAILINGS",
+      "url": "https://get-way.com/product/dssp6002s-railings/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/01/1-2.jpg",
+      "local_image": "images/products/526f1e543652c6cb.webp",
+      "source_categories": [
+        "Tripods"
+      ]
+    },
+    {
+      "source_id": 8197,
+      "name": "Dual-ticket holder (for 2 CR80 cards)",
+      "url": "https://get-way.com/product/dual-ticket-holder-for-2-cr80-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/ac000010-2.jpg",
+      "local_image": "images/products/01933616d403293c.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7422,
+      "name": "Dustclean Cleaning Kit",
+      "url": "https://get-way.com/product/dustclean-cleaning-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/A5004.jpg",
+      "local_image": "images/products/b322dc87a009346d.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 8494,
+      "name": "Dustclean Cleaning Kit (Copy)",
+      "url": "https://get-way.com/product/dustclean-cleaning-kit-copy/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/A5004.jpg",
+      "local_image": "images/products/b322dc87a009346d.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 8146,
+      "name": "Dustclean Cleaning Kit for Edikio A5004",
+      "url": "https://get-way.com/product/dustclean-cleaning-kit-for-edikio-a5004/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/A5004.jpg",
+      "local_image": "images/products/b322dc87a009346d.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 9346,
+      "name": "DVC-24 Money Counter and Detector",
+      "url": "https://get-way.com/product/dvc-24-money-counter-and-detector/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/08/1.jpg",
+      "local_image": "images/products/12e4313da77b4b4c.webp",
+      "source_categories": [
+        "Money Counter"
+      ]
+    },
+    {
+      "source_id": 8614,
+      "name": "Easy Keypad",
+      "url": "https://get-way.com/product/easy-keypad/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/CK2.png",
+      "local_image": "images/products/07c412e9bc691d11.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8633,
+      "name": "Easy Keypad (Slim)",
+      "url": "https://get-way.com/product/easy-keypad-slim-2/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/K6.png",
+      "local_image": "images/products/a0534c4efd52e287.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8625,
+      "name": "Easy Keypad (Slim)",
+      "url": "https://get-way.com/product/easy-keypad-slim/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/K4.png",
+      "local_image": "images/products/b6b29324c1c1fc22.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8629,
+      "name": "Easy Keypad (Wide)",
+      "url": "https://get-way.com/product/easy-keypad-wide/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/K5.png",
+      "local_image": "images/products/7ac75a3360d9a47e.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7847,
+      "name": "Economic HD-AHD PIR Camera",
+      "url": "https://get-way.com/product/economic-hd-ahd-pir-camera/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-PIR2MAHDM.jpg",
+      "local_image": "images/products/d8b517ea5b95734e.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 8576,
+      "name": "Economic Wiegand Reader (EM)",
+      "url": "https://get-way.com/product/economic-wiegand-reader-em-3/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/CR3-REM.png",
+      "local_image": "images/products/7e41dc1d3e546eaf.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7887,
+      "name": "Edikio Access",
+      "url": "https://get-way.com/product/edikio-access/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/09/Edikio-Access.png",
+      "local_image": "images/products/b79c73b12201dad2.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8141,
+      "name": "Edikio Access Black Monochrome Ribbon",
+      "url": "https://get-way.com/product/edikio-access-black-monochrome-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/black-ribbon.png",
+      "local_image": "images/products/3b5db494eb686098.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7912,
+      "name": "Edikio Access White Monochrome Ribbon",
+      "url": "https://get-way.com/product/edikio-access-white-monochrome-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/09/ruban-blanc-access-440x317_1.png",
+      "local_image": "images/products/461ce2b31c957b15.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7890,
+      "name": "Edikio Duplex",
+      "url": "https://get-way.com/product/edikio-duplex/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/09/Edikio-duplex.png",
+      "local_image": "images/products/f7059a1efe6806d9.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8140,
+      "name": "Edikio Flex",
+      "url": "https://get-way.com/product/edikio-flex/",
+      "source_image": "https://get-way.com/wp-content/uploads/2015/03/Edikio-Flex.png",
+      "local_image": "images/products/a5293af56bad5dcc.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8637,
+      "name": "EdiSecure ART Retransfer Film for Matica XID8300 printer",
+      "url": "https://get-way.com/product/edisecure-art-retransfer-film-for-matica-xid8300-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/DIC10319.png",
+      "local_image": "images/products/c2bc4b5471848bd4.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8590,
+      "name": "EdiSecure ART YMCK Color Ribbon for Matica XID8300 printer",
+      "url": "https://get-way.com/product/edisecure-art-ymck-color-ribbon-for-matica-xid8300-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/DIC10216.png",
+      "local_image": "images/products/7a6368da93ba79df.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8612,
+      "name": "EdiSecure ART YMCK-PO Color Ribbon for Matica XID8300 printer",
+      "url": "https://get-way.com/product/edisecure-art-ymck-po-color-ribbon-for-matica-xid8300-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/DIC10218.png",
+      "local_image": "images/products/d94b849cc4d868cd.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8618,
+      "name": "EdiSecure ART YMCK-UV Color Ribbon for Matica XID8300 printer",
+      "url": "https://get-way.com/product/edisecure-art-ymck-uv-color-ribbon-for-matica-xid8300-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/DIC10313.png",
+      "local_image": "images/products/b8c397b4458bcf96.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8601,
+      "name": "EdiSecure ART YMCKK Color Ribbon for Matica XID8300 printer",
+      "url": "https://get-way.com/product/edisecure-art-ymckk-color-ribbon-for-matica-xid8300-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/DIC10217-YMCKK.jpg",
+      "local_image": "images/products/d93711a5420bdf5f.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8486,
+      "name": "EdiSecure Matica XID8100 RE-Transfer Dual Sided",
+      "url": "https://get-way.com/product/edisecure-matica-xid8100-dual-side/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/xid_8100.png",
+      "local_image": "images/products/746159255127ea30.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8519,
+      "name": "EdiSecure Matica XID8100 RE-Transfer Dual Sided – Magnetic",
+      "url": "https://get-way.com/product/edisecure-matica-xid8100-re-transfer-dual-sided-magnetic/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/xid_8100.png",
+      "local_image": "images/products/746159255127ea30.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8490,
+      "name": "EdiSecure Matica XID8100 RE-Transfer Single Sided",
+      "url": "https://get-way.com/product/edisecure-matica-xid8100-single-side/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/xid_8100.png",
+      "local_image": "images/products/746159255127ea30.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8491,
+      "name": "Edisecure Matica XID8300 Retransfer Printer – Single Sided- Including Bend Remedy Module",
+      "url": "https://get-way.com/product/edisecure-matica-xid8300-single-side/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/1-matica-xid-8300-retransfer-id-card-printer-front.jpg",
+      "local_image": "images/products/03fa61fa60b6ffa9.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8493,
+      "name": "Edisecure Matica XID8300 Retransfer Printer-Dual Sided",
+      "url": "https://get-way.com/product/edisecure-matica-xid8300-dual-side/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/1-matica-xid-8300-retransfer-id-card-printer-front.jpg",
+      "local_image": "images/products/03fa61fa60b6ffa9.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8499,
+      "name": "EdiSecure SRT Re-Transfer film",
+      "url": "https://get-way.com/product/edisecure-srt-re-transfer-film/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/dic10539.png",
+      "local_image": "images/products/84609c4b8d8c581f.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8495,
+      "name": "EdiSecure SRT YMCK color ribbon",
+      "url": "https://get-way.com/product/edisecure-srt-ymck-color-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/DIC10509.png",
+      "local_image": "images/products/6208df3d756e815e.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8761,
+      "name": "EDIsecure™ MC660 – High Resolution Retransfer Card Printer",
+      "url": "https://get-way.com/product/edisecure-mc660-high-resolution-retransfer-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2021/07/Matica-MC660-600dpi-retransfer-card-printer.jpg",
+      "local_image": "images/products/3f1084356ad8256a.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8347,
+      "name": "Electric Deadbolt",
+      "url": "https://get-way.com/product/electric-deadbolt/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/10/da-64.png",
+      "local_image": "images/products/cceb9872cf956239.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8343,
+      "name": "Electric Deadbolt Lock",
+      "url": "https://get-way.com/product/electric-deadbolt-lock/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/10/DA-64RDAD1.png",
+      "local_image": "images/products/e4803185c664b685.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8349,
+      "name": "Electric Surface Mount Deadbolt",
+      "url": "https://get-way.com/product/electric-surface-mount-deadbolt/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/DA-15.png",
+      "local_image": "images/products/52617a0d2ee3e583.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7143,
+      "name": "Elypso Expert card printer",
+      "url": "https://get-way.com/product/elypso-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/Elypso.jpg",
+      "local_image": "images/products/c2c21f79559164f4.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8424,
+      "name": "EM Proximity Card",
+      "url": "https://get-way.com/product/em-proximity-card-2/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PG-PROXC-M1-B1.png",
+      "local_image": "images/products/072f7bdb0aad2a14.webp",
+      "source_categories": [
+        "Access Control",
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8420,
+      "name": "EM Proximity Card",
+      "url": "https://get-way.com/product/em-proximity-card/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PG-PROXS-N10-B1.png",
+      "local_image": "images/products/ea4444959e20ac4b.webp",
+      "source_categories": [
+        "Access Control",
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8408,
+      "name": "EM Proximity Tag (EM Standard Format)",
+      "url": "https://get-way.com/product/em-proximity-tag-em-standard-format/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PG-PROXK-N10-B1.png",
+      "local_image": "images/products/1ade121dbb86f5ce.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8525,
+      "name": "Espresso ll Printer – Dual Sided with Magnetic Encoder",
+      "url": "https://get-way.com/product/espresso-ll-printer-dual-sided-with-magnetic-encoder/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/espresso-printer.jpg",
+      "local_image": "images/products/6d0b382653f5a10b.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8521,
+      "name": "Espresso ll Printer – Single Sided",
+      "url": "https://get-way.com/product/espresso-ll-printer-single-sided/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/espresso-printer.jpg",
+      "local_image": "images/products/6d0b382653f5a10b.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 7214,
+      "name": "Evolis Premium SDK (Software Development Kit)",
+      "url": "https://get-way.com/product/evolis-premium-sdk-software-development-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/logopremium-sdk-640x480_0.jpg",
+      "local_image": "images/products/ace5daefcd458732.webp",
+      "source_categories": [
+        "Software"
+      ]
+    },
+    {
+      "source_id": 9146,
+      "name": "EXP-2016 – ExpansE™ Distributed Access Control System",
+      "url": "https://get-way.com/product/exp-2016-expanse-distributed-access-control-system/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/exp-2016.jpg",
+      "local_image": "images/products/40c74df4a8d9bd81.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 8993,
+      "name": "ExpansE 2024 Distributed Access Control System",
+      "url": "https://get-way.com/product/expanse-distributed-access-control-system/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/EXP-2024-2.jpg",
+      "local_image": "images/products/5d53aa813e72df1e.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9011,
+      "name": "ExpansE™ 1032- Distributed Access Control System",
+      "url": "https://get-way.com/product/expanse-1032-distributed-access-control-system/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/EXP-1032-1-1.jpg",
+      "local_image": "images/products/01bca1efd166a188.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 7849,
+      "name": "Face Recognition Outdoor Metal Dome",
+      "url": "https://get-way.com/product/face-recognition-outdoor-metal-dome/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-HLSVPNFC.jpg",
+      "local_image": "images/products/893c644ee3d20f39.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7575,
+      "name": "FaceStation",
+      "url": "https://get-way.com/product/facestation/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/FaceStation.png",
+      "local_image": "images/products/d69dac8b372a1668.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 9680,
+      "name": "FaceStation F2 Fusion Multimodal Terminal",
+      "url": "https://get-way.com/product/facestation-f2-fusion-multimodal-terminal/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/08/1.jpg",
+      "local_image": "images/products/a3eb44d1702c9fba.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8441,
+      "name": "Fail Safe Type Electric Strike(Pair with dead bolt mechanical lock)",
+      "url": "https://get-way.com/product/fail-safe-type-electric-strikepair-with-dead-bolt-mechanical-lock/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PGS-702A.png",
+      "local_image": "images/products/84da79b4f8f49cd8.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8447,
+      "name": "Fail Safe Type Electric Strike(Pair with latch bolt mechanical lock)",
+      "url": "https://get-way.com/product/fail-safe-type-electric-strikepair-with-latch-bolt-mechanical-lock/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PGS-704.png",
+      "local_image": "images/products/94f2e7bd9d025652.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8439,
+      "name": "Fail Secured Type Electric Strike(Pair with dead bolt mechanical lock)",
+      "url": "https://get-way.com/product/fail-secured-type-electric-strikepair-with-dead-bolt-mechanical-lock/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PGS-701A.png",
+      "local_image": "images/products/3e4117f9b6c2f23f.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8443,
+      "name": "Fail Secured Type Electric Strike(Pair with latch bolt mechanical lock)",
+      "url": "https://get-way.com/product/fail-secured-type-electric-strikepair-with-latch-bolt-mechanical-lock/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PGS-703.png",
+      "local_image": "images/products/27b18a28fb40fbec.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 9168,
+      "name": "Fargo 045102 DTC 1000/4000 Resin Ribbon – HID",
+      "url": "https://get-way.com/product/fargo-dtc-10004000-resin-ribbon-hid/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/11/fargo-2.jpg",
+      "local_image": "images/products/0b3b9081e03e98c5.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 9519,
+      "name": "Fargo Card Printer Cleaning Kit",
+      "url": "https://get-way.com/product/fargo-card-printer-cleaning-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2025/04/fargo-cleaning-kit-box-acc.png",
+      "local_image": "images/products/6a345fa9dd8e3ef6.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 9296,
+      "name": "FARGO DTC1000",
+      "url": "https://get-way.com/product/fargo-dtc1000/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/04/dtc1000_s_angl.jpg",
+      "local_image": "images/products/be740d8b2725a0cf.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8380,
+      "name": "Fingerprint &amp; proximity card access controller and time attendance",
+      "url": "https://get-way.com/product/fingerprint-proximity-card-access-controller-and-time-attendance/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PFP-3702V.png",
+      "local_image": "images/products/ca5021d23890267c.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7288,
+      "name": "Fingerprint Time Recording Access Controller",
+      "url": "https://get-way.com/product/pfp-8032/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/PFP-8032-1.jpg",
+      "local_image": "images/products/1f918b5f1d1061bb.webp",
+      "source_categories": [
+        "Access Control",
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 8679,
+      "name": "Four-door TCP/IP Controller",
+      "url": "https://get-way.com/product/four-door-tcpip-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/C4.png",
+      "local_image": "images/products/3113d8d72e2da883.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7370,
+      "name": "Generic Hologram Registered Varnish",
+      "url": "https://get-way.com/product/generic-hologram-varnish/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/02/lvr037naa_deroule_debout_72_dpi.jpg",
+      "local_image": "images/products/c094794036bf91fb.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8923,
+      "name": "Growatt SPF 5000ES",
+      "url": "https://get-way.com/product/growatt-spf-5000es/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/02/growatt-spf-5000-es-e1666157094877-600x653.png",
+      "local_image": "images/products/aa15e40f592a1dd7.webp",
+      "source_categories": [
+        "Energy Solution"
+      ]
+    },
+    {
+      "source_id": 8184,
+      "name": "H Gripper",
+      "url": "https://get-way.com/product/h-gripper/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/ac000009.jpg",
+      "local_image": "images/products/4b5af5356e668163.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7176,
+      "name": "Half panel YMCKO ribbon",
+      "url": "https://get-way.com/product/half-panel-ymcko-ribbon-r3013/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/r1.jpg",
+      "local_image": "images/products/45814506453afd56.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7171,
+      "name": "Half Panel YMCKO ribbon cassette",
+      "url": "https://get-way.com/product/half-panel-ymcko-ribbon-cassette-r5h004naa/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/t1.jpg",
+      "local_image": "images/products/ad5535fc93a3b681.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8152,
+      "name": "Half Panel YMCKO ribbon cassette R5H004NAA",
+      "url": "https://get-way.com/product/half-panel-ymcko-ribbon-cassette-r5h004naa-2/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/t1.jpg",
+      "local_image": "images/products/ad5535fc93a3b681.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7873,
+      "name": "HD Indoor Dome",
+      "url": "https://get-way.com/product/hd-indoor-dome/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-4L11MH.jpg",
+      "local_image": "images/products/2c643570e00fd1a0.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7875,
+      "name": "HD Outdoor Bullet Camera",
+      "url": "https://get-way.com/product/hd-bullet-camera/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-4I11M5N.jpg",
+      "local_image": "images/products/e210895b10a771ca.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7317,
+      "name": "HD PRO WEBCAM C920",
+      "url": "https://get-way.com/product/hd-pro-webcam-c920/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/hd-webcam-pro-c920-gallery.png",
+      "local_image": "images/products/6d584547d6f2f7ed.webp",
+      "source_categories": [
+        "Others"
+      ]
+    },
+    {
+      "source_id": 7843,
+      "name": "HD-SDI Bullet Camera",
+      "url": "https://get-way.com/product/hd-sdi-bullet-camera/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-Z72MSDI.jpg",
+      "local_image": "images/products/b217c37705ed54cb.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7845,
+      "name": "HD-SDI Dome Camera",
+      "url": "https://get-way.com/product/hd-sdi-dome-camera/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/1306_0.jpg",
+      "local_image": "images/products/37a9ac38aa8334e0.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7421,
+      "name": "Headclean Cleaning Kit",
+      "url": "https://get-way.com/product/headclean-cleaning-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/acl007-scaled.jpg",
+      "local_image": "images/products/f17321e3b1bd400c.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 8147,
+      "name": "Headclean Cleaning Kit for Edikio A5003",
+      "url": "https://get-way.com/product/headclean-cleaning-kit-for-edikio-a5003/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/acl007-scaled.jpg",
+      "local_image": "images/products/f17321e3b1bd400c.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 9193,
+      "name": "Headclean Cleaning Kit TEST",
+      "url": "https://get-way.com/product/headclean-cleaning-kit-test/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/acl007-scaled.jpg",
+      "local_image": "images/products/f17321e3b1bd400c.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 7646,
+      "name": "Hologram Varnish – Genuine Globes",
+      "url": "https://get-way.com/product/hologram-varnish-genuine-globes/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/02/RVA022NAA.jpg",
+      "local_image": "images/products/745a9a12a29618d8.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8274,
+      "name": "HT2000 OMNI Barcode Scanner",
+      "url": "https://get-way.com/product/ht2000-omni-barcode-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/04/HT2000-OMNI-Scanner-.jpg",
+      "local_image": "images/products/d888dd3f6db14693.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 8268,
+      "name": "HT310 Handheld 1D CCD Barcode Scanner",
+      "url": "https://get-way.com/product/ht310-handheld-1d-ccd-barcode-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/04/HT310-Long-range-CCD-Scanner-2.png",
+      "local_image": "images/products/bd27c05187a5210a.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 8282,
+      "name": "HT850 Handheld 2D Barcode Scanner",
+      "url": "https://get-way.com/product/ht850-handheld-2d-barcode-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/04/HT310HT800R.png",
+      "local_image": "images/products/c19b6226eb576472.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 8275,
+      "name": "HT900 Laser Scanner",
+      "url": "https://get-way.com/product/ht900-laser-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/04/HT900-Laser-Scanner.png",
+      "local_image": "images/products/6311722c8260a055.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 8278,
+      "name": "HW310 Wireless CCD Barcode Scanner",
+      "url": "https://get-way.com/product/hw310-wireless-ccd-barcode-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/04/HW-310.jpg",
+      "local_image": "images/products/1a38d9f37db89c43.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 7212,
+      "name": "IDS 16 R – Metal suspender clip with reinforced strap",
+      "url": "https://get-way.com/product/ids-16-r-metal-suspender-clip-with-reinforced-strap/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/ids-16-r-pince-bretelle-avec-lanière-renforcée.jpg",
+      "local_image": "images/products/3a2af13e63eb5b20.webp",
+      "source_categories": [
+        "Clips"
+      ]
+    },
+    {
+      "source_id": 7210,
+      "name": "IDS 17 – Metal croco-type clip with plastic strap",
+      "url": "https://get-way.com/product/ids-17-metal-croco-type-clip-with-plastic-strap/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/ids-17-metal-croco-type-clip-with-plastic-strap.jpg",
+      "local_image": "images/products/bfc9f7c8690ef2c1.webp",
+      "source_categories": [
+        "Clips"
+      ]
+    },
+    {
+      "source_id": 7200,
+      "name": "IDS 36 – Professional badge holder",
+      "url": "https://get-way.com/product/ids-36-professional-badge-holder/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/ids-36-le-professionnel_resized.jpg",
+      "local_image": "images/products/25b750dd5d996633.webp",
+      "source_categories": [
+        "Badge holders"
+      ]
+    },
+    {
+      "source_id": 7202,
+      "name": "IDS 930 – Badge reel with rotating crocodile clip",
+      "url": "https://get-way.com/product/ids-930-badge-reel-with-rotating-crocodile-clip/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/ids-930_badge-reel-with-rotating-front.jpg",
+      "local_image": "images/products/b5414584c03e4401.webp",
+      "source_categories": [
+        "Badge reels"
+      ]
+    },
+    {
+      "source_id": 7205,
+      "name": "IDS 940 – Plastic badge reel with reinforced strap",
+      "url": "https://get-way.com/product/ids-940-plastic-badge-reel-with-reinforced-strap/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/ids-940-zip-boîtier-plastique-blanc.jpg",
+      "local_image": "images/products/d2900816a424702b.webp",
+      "source_categories": [
+        "Badge reels"
+      ]
+    },
+    {
+      "source_id": 7198,
+      "name": "IDX – badge holder (horizontal or vertical)",
+      "url": "https://get-way.com/product/idx-badge-holder-horizontal-or-vertical/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/idx-badge-holders-with-badge.jpg",
+      "local_image": "images/products/286f5b506634a97b.webp",
+      "source_categories": [
+        "Badge holders"
+      ]
+    },
+    {
+      "source_id": 7851,
+      "name": "Indoor Plastic Audio Dome",
+      "url": "https://get-way.com/product/color-13-sony-ccd/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-25SO78EA.jpg",
+      "local_image": "images/products/4fb0556197bd034b.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 9660,
+      "name": "JA SOLAR – 540w",
+      "url": "https://get-way.com/product/ja-solar-540w/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/07/JA-SOLAR-1.jpg",
+      "local_image": "images/products/a193c8db4d07747f.webp",
+      "source_categories": [
+        "Energy Solution"
+      ]
+    },
+    {
+      "source_id": 9045,
+      "name": "KE-06 / KC-06 / KD-06 – 12 Zone Keypads",
+      "url": "https://get-way.com/product/ke-06-kc-06-kd-06-12-zone-keypads/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/KE-KC-KD-06-3-m.jpg",
+      "local_image": "images/products/b477519630f6c8ba.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9115,
+      "name": "L6CE – Aurasys Lite 6-Zone to 12-Zone Hardwired Alarm Control Panel",
+      "url": "https://get-way.com/product/l6ce-aurasys-lite-6-zone-to-12-zone-hardwired-alarm-control-panel/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/thumbnail_IMG_8735.jpg",
+      "local_image": "images/products/ce62eaae7c442be7.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 8355,
+      "name": "Latch bolt mechanical lock",
+      "url": "https://get-way.com/product/latch-bolt-mechanical-lock/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/MK-738.png",
+      "local_image": "images/products/a57887081d5910f4.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8353,
+      "name": "Lift Access Controller Link with Intercom",
+      "url": "https://get-way.com/product/lift-access-controller-link-with-intercom/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/DIO-2408.jpg",
+      "local_image": "images/products/947c91cf8e0a96f5.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8427,
+      "name": "Long Range UHF RFID Reader And Writer",
+      "url": "https://get-way.com/product/long-range-uhf-rfid-reader-and-writer-2/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PK-UHF201.png",
+      "local_image": "images/products/5a37e2a7e1c829df.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8425,
+      "name": "Long Range UHF RFID Reader And Writer",
+      "url": "https://get-way.com/product/long-range-uhf-rfid-reader-and-writer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PK-UHF101.png",
+      "local_image": "images/products/5ed0ecb022ad6331.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 9124,
+      "name": "LT-UVG-26A-3001 Bytes Glass Inlay Tags – 100 PK",
+      "url": "https://get-way.com/product/lt-uvg-26a-3001-bytes-glass-inlay-tags-100-pk/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/lt-uvg-26A-3001.jpg",
+      "local_image": "images/products/56b96033be547324.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9097,
+      "name": "LT-UVS-26A-3000 UHF Proximity Read/Write Card",
+      "url": "https://get-way.com/product/lt-uvs-26a-3000-uhf-proximity-readwrite-card/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/LT-UVS-26A-3000-IMAGE.jpg",
+      "local_image": "images/products/fd408aa0e8b65789.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 8175,
+      "name": "Magnetic spike ticket stands (120mm height)",
+      "url": "https://get-way.com/product/magnetic-spike-ticket-stands-120mm-height/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/ac000005.jpg",
+      "local_image": "images/products/013b6b790e5fff51.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8173,
+      "name": "Magnetic spike ticket stands (80mm height)",
+      "url": "https://get-way.com/product/magnetic-spike-ticket-stands-80mm-height/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/AC000002.jpg",
+      "local_image": "images/products/2b7360c1a5e3743a.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7624,
+      "name": "Magnetic stripe card time attendance recorder",
+      "url": "https://get-way.com/product/magnetic-stripe-card-time-attendance-recorder/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/PP-2752.jpg",
+      "local_image": "images/products/354ad3cc53e95f19.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8692,
+      "name": "Magnetic Stripe Module for Matica XID8300 printer",
+      "url": "https://get-way.com/product/magnetic-stripe-module-for-matica-xid8300-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/xid-8300-magnetic-stripe-encoding-module-dih10453.jpg",
+      "local_image": "images/products/fac05e1f3e6200ef.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 9538,
+      "name": "Matica MC110 Card Printer",
+      "url": "https://get-way.com/product/mc110-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2025/10/MC110-Front-1-1.webp",
+      "local_image": "images/products/c567df3eee3ac63f.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 9542,
+      "name": "Matica MC210 Card Printer",
+      "url": "https://get-way.com/product/mc210-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2025/10/MC210-datasheet-A4-UK-V12-1.bmp",
+      "local_image": "images/products/59f6d1b4dd3ff9eb.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 9545,
+      "name": "Matica MC310 Card Printer",
+      "url": "https://get-way.com/product/matica-mc310-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2025/10/MC310-Front-small-e1656501063455.webp",
+      "local_image": "images/products/f89c9eadd5c16b5b.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 9103,
+      "name": "MatrixBusTM XI-4 Four-zone Expansion Module",
+      "url": "https://get-way.com/product/matrixbustm-xi-4-four-zone-expansion-module/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/MATRIXBUS-xi-4-IMAGE.jpg",
+      "local_image": "images/products/7c630387e7fc2220.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9002,
+      "name": "MatrixBusTM XO-2 Tow PGM Expansion Module",
+      "url": "https://get-way.com/product/matrixbustm-xo-2-tow-pgm-expansion-module/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/MATRIXBUS-XO-4-2-1.jpg",
+      "local_image": "images/products/77d39e84ab2fea32.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9009,
+      "name": "MatrixBUS™ MD-64 &amp; MD-66 – Control Panel and Keyboard Voice Modules",
+      "url": "https://get-way.com/product/matrixbus-md-64-md-66-control-panel-and-keyboard-voice-modules/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/MD-64-1.jpg",
+      "local_image": "images/products/1840fb7655b87987.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9139,
+      "name": "MD-08 Wiegand to RS-232 Output Converter",
+      "url": "https://get-way.com/product/md-08-wiegand-to-rs-232-output-converter/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/09/md-08.jpeg",
+      "local_image": "images/products/083af0989132e7cf.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9099,
+      "name": "MD-14U/62U USB Cables",
+      "url": "https://get-way.com/product/md-14u62u-usb-cables/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/CABLES.jpg",
+      "local_image": "images/products/716f13067f06b76b.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9004,
+      "name": "MD-24U – USB Cables",
+      "url": "https://get-way.com/product/md-24u-usb-cables/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/MD-24U.jpg",
+      "local_image": "images/products/ecc83140ac4b26fe.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9006,
+      "name": "MD-63 Memory Key for AuraSysTM Panels",
+      "url": "https://get-way.com/product/md-63-memory-key-for-aurasystm-panels/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/MD-63-1.jpg",
+      "local_image": "images/products/3f2056b35d50a56d.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9013,
+      "name": "MD-D02B 2-Reader Expansion Module for AC-225x-B Control Panel",
+      "url": "https://get-way.com/product/md-d02b-2-reader-expansion-module-for-ac-225x-b-control-panel/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/MD-D02B.jpg",
+      "local_image": "images/products/c6abd7025401c0e6.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9015,
+      "name": "MD-N32 RS-232 to TCP/IP Gateway",
+      "url": "https://get-way.com/product/md-n32-rs-232-to-tcpip-gateway/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/MD-N32-.jpg",
+      "local_image": "images/products/08d01e4189566706.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9079,
+      "name": "ME00+031 Boards Tray Cabinet Housing",
+      "url": "https://get-way.com/product/me-00031-boards-tray-cabinet-housing/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/ME-00_compressed.jpg",
+      "local_image": "images/products/db7a7f3a34982ab4.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 7621,
+      "name": "Metal Digital Access Control Keypad",
+      "url": "https://get-way.com/product/metal-digital-access-control-keypad/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/accesskeypadPG-206Kpurple.jpg",
+      "local_image": "images/products/23a8495417074b32.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 9643,
+      "name": "Metal Push Button Stand Alone (big)",
+      "url": "https://get-way.com/product/metal-push-button-stand-alone-big/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/04/metal-push-button.jpg",
+      "local_image": "images/products/61882ffe33536fe9.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8165,
+      "name": "Metallic Gold Monochrome ribbon",
+      "url": "https://get-way.com/product/metallic-gold-monochrome-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/rct016naa.jpg",
+      "local_image": "images/products/cd4e182947983c9a.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8163,
+      "name": "Metallic Gold Monochrome ribbon RCT016NAA",
+      "url": "https://get-way.com/product/metallic-gold-monochrome-ribbon-rct016naa/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/rct016naa.jpg",
+      "local_image": "images/products/cd4e182947983c9a.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8168,
+      "name": "Metallic Silver Monochrome ribbon",
+      "url": "https://get-way.com/product/metallic-silver-monochrome-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/Metallic_silver_mono_ribbon-scaled.jpg",
+      "local_image": "images/products/c40dbf2e642bf933.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8166,
+      "name": "Metallic Silver Monochrome ribbon RCT017NAA",
+      "url": "https://get-way.com/product/metallic-silver-monochrome-ribbon-rct017naa/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/Metallic_silver_mono_ribbon-scaled.jpg",
+      "local_image": "images/products/c40dbf2e642bf933.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8229,
+      "name": "Mifare 1K PVC White Cards",
+      "url": "https://get-way.com/product/mifare-1k-pvc-white-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/cc1.jpg",
+      "local_image": "images/products/d1319d7878e3b34c.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 7713,
+      "name": "MIFARE Keyfob",
+      "url": "https://get-way.com/product/mifare-keyfob/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/enviromux-rfid-kyfb10.jpg",
+      "local_image": "images/products/77a5423aef7ceec0.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 8478,
+      "name": "Mifare prox. Controller &amp; Reader",
+      "url": "https://get-way.com/product/mifare-prox-controller-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PP-35.png",
+      "local_image": "images/products/c4845205637accdd.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8404,
+      "name": "Mifare Proximity Card",
+      "url": "https://get-way.com/product/mifare-proximity-card/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PG-PROXC-M1-B1.png",
+      "local_image": "images/products/072f7bdb0aad2a14.webp",
+      "source_categories": [
+        "Access Control",
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8410,
+      "name": "Mifare Proximity Tag",
+      "url": "https://get-way.com/product/mifare-proximity-tag/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PG-PROXK-M1-B1.png",
+      "local_image": "images/products/b83282e8dbab39de.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7711,
+      "name": "MIFARE Wristband",
+      "url": "https://get-way.com/product/mifare-wristband/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/mifc1-b2macsb.jpg",
+      "local_image": "images/products/9e6a4a2baf108e43.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7826,
+      "name": "Mini and Compact Magnetic Stripe Card Reader",
+      "url": "https://get-way.com/product/mini-and-compact-magnetic-stripe-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/readimage.jpeg",
+      "local_image": "images/products/d85cf1e6a965f318.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers",
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 8568,
+      "name": "Mini Economic Wiegand Reader (EM)",
+      "url": "https://get-way.com/product/economic-wiegand-reader-em/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/CR1-R-EM.png",
+      "local_image": "images/products/4adc52e4011e3bc1.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8360,
+      "name": "Mini Flush-Mount Standalone Access Controller",
+      "url": "https://get-way.com/product/mini-flush-mount-standalone-access-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PC-301.png",
+      "local_image": "images/products/40349dc386015641.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8476,
+      "name": "Mini Model 125KHz FSK Contactless Card Reader",
+      "url": "https://get-way.com/product/mini-model-125khz-fsk-contactless-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PP-110M.png",
+      "local_image": "images/products/181b12c7c98b283d.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8472,
+      "name": "Mini Model Mifare Card UID Reader",
+      "url": "https://get-way.com/product/mini-model-mifare-card-uid-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PP-110M.png",
+      "local_image": "images/products/181b12c7c98b283d.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7664,
+      "name": "Mobile Computer",
+      "url": "https://get-way.com/product/mobile-computer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/PT60-B.jpg",
+      "local_image": "images/products/4e0e4a4672b80b5f.webp",
+      "source_categories": [
+        "Data collectors"
+      ]
+    },
+    {
+      "source_id": 7819,
+      "name": "Mobile Computer PT6020",
+      "url": "https://get-way.com/product/mobile-computer-pt6020/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/colector-de-datos-argox-pt-6020-control-de-stock-envios-D_NQ_NP_930425-MLA25420467530_032017-F.jpg",
+      "local_image": "images/products/ecd61c0a2ba4abc1.webp",
+      "source_categories": [
+        "Data collectors"
+      ]
+    },
+    {
+      "source_id": 8513,
+      "name": "Monochrome black ribbon for Matica printers",
+      "url": "https://get-way.com/product/monochrome-black-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PR000034.jpg",
+      "local_image": "images/products/91a700665d953b6f.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8542,
+      "name": "Monochrome Blue ribbon for Matica Espresso Printer",
+      "url": "https://get-way.com/product/monochrome-blue-ribbon-for-matica-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/Blue-PR000100.jpg",
+      "local_image": "images/products/01351e32a4d44cdd.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8548,
+      "name": "Monochrome Gold Metallic ribbon for Matica Espresso Printer",
+      "url": "https://get-way.com/product/monochrome-gold-metallic-ribbon-for-matica-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/matica-pr000163-gold-ribbon.jpg",
+      "local_image": "images/products/3b7ca41837ab527f.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8539,
+      "name": "Monochrome Green ribbon for Matica Espresso Printer",
+      "url": "https://get-way.com/product/monochrome-green-ribbon-for-matica-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/Green-pr000099.jpg",
+      "local_image": "images/products/5015d5d070de25d6.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8588,
+      "name": "Monochrome KO ribbon for Matica Espresso Printer",
+      "url": "https://get-way.com/product/monochrome-ko-ribbon-for-matica-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/matica-pr000165-monochrome-ko-ribbon.jpg",
+      "local_image": "images/products/acd6166b096d4eec.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8535,
+      "name": "Monochrome Red ribbon for Matica Espresso Printer",
+      "url": "https://get-way.com/product/monochrome-red-ribbon-for-matica-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PR000098-front.jpg",
+      "local_image": "images/products/68e39b3697afeb57.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8546,
+      "name": "Monochrome Silver Metallic ribbon for Matica Espresso Printer",
+      "url": "https://get-way.com/product/monochrome-silver-metallic-ribbon-for-matica-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PR000162-front-silver.jpg",
+      "local_image": "images/products/695e0eb8ca30706b.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8544,
+      "name": "Monochrome White (opaque) ribbon for Matica Espresso Printer",
+      "url": "https://get-way.com/product/monochrome-white-opaque-ribbon-for-matica-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PR000101-front-WHITE.jpg",
+      "local_image": "images/products/436b7063a096ce0d.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 9017,
+      "name": "MPZ02 – Mounting Spacer – Long Range Reader",
+      "url": "https://get-way.com/product/mpz02-mounting-spacer-long-range-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/MP-Z02.jpg",
+      "local_image": "images/products/3b65b73462b48c18.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9510,
+      "name": "MSE-750 Hico/Loco Magstripe Encoder",
+      "url": "https://get-way.com/product/mse-750-hico-loco-magstripe-encoder/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/10/1.jpg",
+      "local_image": "images/products/4a504674bb92c740.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers",
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7598,
+      "name": "Multi-door access control board (4/8 doors)",
+      "url": "https://get-way.com/product/multi-door-access-control-board-48-doors/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/PC-1074B.jpg",
+      "local_image": "images/products/ead78e5604c0a0d1.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7594,
+      "name": "Multi-door access controller (4/8 doors)",
+      "url": "https://get-way.com/product/multi-door-access-controller-48-doors/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/Multi-door-access-control-board-PC-1074.jpg",
+      "local_image": "images/products/d4987cca005bb2a0.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7597,
+      "name": "Multi-door access controller (4/8 doors, TCP/IP embedded)",
+      "url": "https://get-way.com/product/multi-door-access-controller-48-doors-tcpip-embedded/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/Multi-door-access-control-board-PC-1074.jpg",
+      "local_image": "images/products/d4987cca005bb2a0.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8170,
+      "name": "Narrow price ticket spikes (80mm height)",
+      "url": "https://get-way.com/product/narrow-price-ticket-spikes-80mm-height/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/AC000001.jpg",
+      "local_image": "images/products/7dba1eccd18c6d1e.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7299,
+      "name": "OS-214 plus",
+      "url": "https://get-way.com/product/os-214-plus/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/19-1.jpg",
+      "local_image": "images/products/09322352af55fd3f.webp",
+      "source_categories": [
+        "Barcode Printers"
+      ]
+    },
+    {
+      "source_id": 8621,
+      "name": "Outdoor Easy Keypad (Wide)",
+      "url": "https://get-way.com/product/outdoor-easy-keypad-wide/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/K1.png",
+      "local_image": "images/products/ba43e6700c4902c7.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7877,
+      "name": "Outdoor IR IP Bullet Camera",
+      "url": "https://get-way.com/product/outdoor-ir-ip-bullet-camera-2/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/08/TT-X13M8Q6-black.jpg",
+      "local_image": "images/products/be36d7ea2d69eb66.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7833,
+      "name": "Outdoor IR IP POE Bullet Camera",
+      "url": "https://get-way.com/product/outdoor-ir-ip-bullet-camera/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-X2M8S5P-copy.jpg",
+      "local_image": "images/products/33a5baaf2c76bde3.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 8651,
+      "name": "Outdoor Keypad &amp; EM Reader (Slim)",
+      "url": "https://get-way.com/product/outdoor-keypad-em-reader-slim/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/SK4-W.png",
+      "local_image": "images/products/bdc17406ee4733cd.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8643,
+      "name": "Outdoor Keypad (Wide)",
+      "url": "https://get-way.com/product/outdoor-dual-relay-keypad/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/SK1.png",
+      "local_image": "images/products/3e277dd165390dac.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8663,
+      "name": "Outdoor Metal Digital Keypad (Slim)",
+      "url": "https://get-way.com/product/outdoor-metal-digital-keypad-slim/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/XK2.png",
+      "local_image": "images/products/6a45e0e32d4a0fb2.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8657,
+      "name": "Outdoor Metal Digital Keypad (Wide)",
+      "url": "https://get-way.com/product/outdoor-metal-digital-keypad-wide/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/XK1.png",
+      "local_image": "images/products/bb9c65a03f956950.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 9111,
+      "name": "P6CE – AuraSys™ Pro 6/16 Zone Alarm Control Panel",
+      "url": "https://get-way.com/product/p6ce-aurasys-pro-616-zone-alarm-control-panel/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/thumbnail_IMG_8738.jpg",
+      "local_image": "images/products/37a4787497b79b1e.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 8506,
+      "name": "Pack of: 10 white cards/ 1 Black Ribbon / 1 Adhesive Card",
+      "url": "https://get-way.com/product/pack-of-10-white-cards-1-black-ribbon-1-adhesive-card/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/test.jpg",
+      "local_image": "images/products/f78fa9c7d617d1aa.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 9066,
+      "name": "PC-P18 – 12 VDC, 5 A Power Supply PCBA",
+      "url": "https://get-way.com/product/pc-p18-12-vdc-5-a-power-supply-pcba/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/PC-P18-IMAGE.jpg",
+      "local_image": "images/products/b0e4b0e038a376e5.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9350,
+      "name": "PDA PD01 PLUS",
+      "url": "https://get-way.com/product/pda-pd01-plus/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/08/PHOTO-3.jpg",
+      "local_image": "images/products/e63be7f0b30da5ac.webp",
+      "source_categories": [
+        "Data collectors",
+        "Signature Pads"
+      ]
+    },
+    {
+      "source_id": 9354,
+      "name": "PDA TK02",
+      "url": "https://get-way.com/product/pda-tk02/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/08/PHOTO-4.jpg",
+      "local_image": "images/products/374af336c6648b51.webp",
+      "source_categories": [
+        "Data collectors"
+      ]
+    },
+    {
+      "source_id": 7719,
+      "name": "PINhandy OTP Generator",
+      "url": "https://get-way.com/product/pinhandy-otp-generator/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/APG82-1.jpg",
+      "local_image": "images/products/6f83a48819d1cb5b.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7655,
+      "name": "Portable Terminal",
+      "url": "https://get-way.com/product/portable-terminal/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/producto-57-2.jpg",
+      "local_image": "images/products/bbeba025bdd39029.webp",
+      "source_categories": [
+        "Data collectors"
+      ]
+    },
+    {
+      "source_id": 8991,
+      "name": "Power supplies, switched – stabilized",
+      "url": "https://get-way.com/product/power-supplies-switched-stabilized/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/power-supply.jpg",
+      "local_image": "images/products/04375f57792c644e.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9302,
+      "name": "Price Checker – Barcode Scanner",
+      "url": "https://get-way.com/product/price-checker-barcode-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/04/2-1.jpg",
+      "local_image": "images/products/6e04ae12241bdc9e.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 8187,
+      "name": "Price ticket clamps (40mm height)",
+      "url": "https://get-way.com/product/price-ticket-clamps-40mm-height/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/AC000007.jpg",
+      "local_image": "images/products/8702e41a61a8387e.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8192,
+      "name": "Price ticket clamps (80mm height)",
+      "url": "https://get-way.com/product/price-ticket-clamps-80mm-height/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/AC000007_8.jpg",
+      "local_image": "images/products/0f3c1b7e8a22ff5a.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8177,
+      "name": "Price ticket stands",
+      "url": "https://get-way.com/product/price-ticket-stands/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/AC000003.jpg",
+      "local_image": "images/products/e6a1ae7babdd2a4b.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7111,
+      "name": "Primacy Duplex Expert card printer",
+      "url": "https://get-way.com/product/primacy-card-printers/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/Primacy_profile.jpg",
+      "local_image": "images/products/8cf30f402828879f.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 7116,
+      "name": "Primacy Lamination",
+      "url": "https://get-way.com/product/primacy-lamination/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/primacy-lamination-back.jpg",
+      "local_image": "images/products/2c742f137ddeec63.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 7630,
+      "name": "Primacy simplex card printers",
+      "url": "https://get-way.com/product/primacy-simplex-card-printers/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/Primacy_profile.jpg",
+      "local_image": "images/products/8cf30f402828879f.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8870,
+      "name": "Primacy2 Card Printer",
+      "url": "https://get-way.com/product/primacy2-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2022/07/1.jpg",
+      "local_image": "images/products/a4caafcd12d2df71.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 7419,
+      "name": "PrinterClean Cleaning Kit",
+      "url": "https://get-way.com/product/printerclean-cleaning-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/a5002.jpg",
+      "local_image": "images/products/096a59a63dca1bb8.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 8182,
+      "name": "Promo badges &amp; Cristal clip for fixing",
+      "url": "https://get-way.com/product/promo-badges-cristal-clip-for-fixing/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/ac000006.jpg",
+      "local_image": "images/products/3b44bd214b679dbe.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7604,
+      "name": "Proximity card RFID reader (Reading range: Max. 60cm/80cm(optional))",
+      "url": "https://get-way.com/product/proximity-card-rfid-reader-reading-range-max-60cm80cmoptional/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/ریدر-کنترل-تردد-خودرو-pfh921060.jpg",
+      "local_image": "images/products/a43274011bd34b52.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8482,
+      "name": "Proximity Controller &amp; Reader",
+      "url": "https://get-way.com/product/proximity-controller-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PP-35.png",
+      "local_image": "images/products/c4845205637accdd.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 9068,
+      "name": "PS-C25T Intelligent Dual Relay Secure Power Supply",
+      "url": "https://get-way.com/product/ps-c25t-intelligent-dual-relay-secure-power-supply/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/PS-C25T-1-IMAGE.jpg",
+      "local_image": "images/products/a1495a153f1dc3c5.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9021,
+      "name": "PS-x25T/TU/LT Intelligent Dual-Relay Secured Power Supply",
+      "url": "https://get-way.com/product/ps-x25ttult-intelligent-dual-relay-secured-power-supply/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/PS-A25T-2.jpg",
+      "local_image": "images/products/2f48e34feeae531a.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9019,
+      "name": "PS16 – PS17 POWER SUPPLYS",
+      "url": "https://get-way.com/product/ps16-ps17-power-supplys/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/PS-16_and_PS-17_IM_22112005-1.jpg",
+      "local_image": "images/products/5712f4210fb67574.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 8169,
+      "name": "PVC Black Mat Cards",
+      "url": "https://get-way.com/product/pvc-black-mat-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/black-cards.jpg",
+      "local_image": "images/products/73cac9cf89a2ff64.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7895,
+      "name": "PVC blank Gold cards",
+      "url": "https://get-way.com/product/pvc-blank-gold-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/09/eid-60-3022_500-copy.jpg",
+      "local_image": "images/products/0d8f33004c2ee6dd.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 7898,
+      "name": "PVC blank Silver cards",
+      "url": "https://get-way.com/product/pvc-blank-silver-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/09/silver-scaled.jpg",
+      "local_image": "images/products/d1cebab106ffc04a.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 7187,
+      "name": "PVC blank white cards",
+      "url": "https://get-way.com/product/pvc-blank-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/cc1.jpg",
+      "local_image": "images/products/d1319d7878e3b34c.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 7908,
+      "name": "PVC Blue cards",
+      "url": "https://get-way.com/product/pvc-blank-colored-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/09/Blue-cards.jpg",
+      "local_image": "images/products/ecbc3e50fbc0ec64.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8400,
+      "name": "PVC Fluorescent cards",
+      "url": "https://get-way.com/product/pvc-fluorescent-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/fluo.jpg",
+      "local_image": "images/products/883a097fed5e99de.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8390,
+      "name": "PVC glossy black cards",
+      "url": "https://get-way.com/product/pvc-glossy-black-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/black-glossy-cards.jpg",
+      "local_image": "images/products/5768fd2e6ae8316a.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 7901,
+      "name": "PVC Gold cards with magnetic stripe",
+      "url": "https://get-way.com/product/pvc-gold-cards-with-magnetic-stripe/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/09/Light-Gold-mag-copy.jpg",
+      "local_image": "images/products/df6008c8a786fb48.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8392,
+      "name": "PVC Green cards",
+      "url": "https://get-way.com/product/pvc-green-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/green-cards.png",
+      "local_image": "images/products/81755a39832c675d.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8402,
+      "name": "PVC HiCo glossy black cards",
+      "url": "https://get-way.com/product/pvc-hico-glossy-black-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/black-mat-hico-cards.jpg",
+      "local_image": "images/products/1a252b896442e9ee.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8407,
+      "name": "PVC HiCo matt black cards",
+      "url": "https://get-way.com/product/pvc-hico-matt-black-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/black-mat-hico-cards.jpg",
+      "local_image": "images/products/1a252b896442e9ee.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 7191,
+      "name": "PVC mat black cards",
+      "url": "https://get-way.com/product/pvc-mat-black-cards-part-c8001/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/black-cards.jpg",
+      "local_image": "images/products/73cac9cf89a2ff64.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8398,
+      "name": "PVC Orange cards",
+      "url": "https://get-way.com/product/pvc-orange-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/orange-cards.jpg",
+      "local_image": "images/products/836260af1b15b9c5.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8394,
+      "name": "PVC Red cards",
+      "url": "https://get-way.com/product/pvc-red-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/red-cards.png",
+      "local_image": "images/products/6b745cfaba2f3ce5.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 7905,
+      "name": "PVC Silver cards with magnetic stripe",
+      "url": "https://get-way.com/product/pvc-silver-cards-with-magnetic-stripe/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/09/silver-hico-cards.png",
+      "local_image": "images/products/36b1a4f1a72db376.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 7189,
+      "name": "PVC White cards with HICO magnetic stripe",
+      "url": "https://get-way.com/product/pvc-card-magnetic-stripe/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/C1004-N°3.jpg",
+      "local_image": "images/products/903b5442320b4584.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8211,
+      "name": "PVC White cards with LOCO magnetic stripe",
+      "url": "https://get-way.com/product/pvc-white-cards-with-loco-magnetic-stripe/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/C1004-N°3.jpg",
+      "local_image": "images/products/903b5442320b4584.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8396,
+      "name": "PVC Yellow cards",
+      "url": "https://get-way.com/product/pvc-yellow-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/yellow-cards.png",
+      "local_image": "images/products/b766e003597cf64c.webp",
+      "source_categories": [
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 9070,
+      "name": "PYR-0021 Miniature Spherical Wired Digital PIR Motion Detector",
+      "url": "https://get-way.com/product/pyr-0021-miniature-spherical-wired-digital-pir-motion-detector/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/PYR-0021-Image.jpg",
+      "local_image": "images/products/8b2a29f326bce1db.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9072,
+      "name": "PYR-1021 Midsized Spherical Wired Digital PIR Motion Detector",
+      "url": "https://get-way.com/product/pyr-1021-midsized-spherical-wired-digital-pir-motion-detector/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/PYR-1021-image.jpg",
+      "local_image": "images/products/f1400e2b62d021f4.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9105,
+      "name": "PYR-2023 Dual PIR/Microwave Motion Detector with Anti-Masking",
+      "url": "https://get-way.com/product/pyr-2023-dual-pirmicrowave-motion-detector-with-anti-masking/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/PYR-2023-IMAGE.jpg",
+      "local_image": "images/products/4fb9eee529408694.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9074,
+      "name": "PYR-3021 – Wired Ceiling PIR Motion Detector",
+      "url": "https://get-way.com/product/pyr-3021-wired-ceiling-pir-motion-detector/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/PYR-3021-image.jpg",
+      "local_image": "images/products/a39ff01499d27b36.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9026,
+      "name": "PYR-4122 Analog Hardwire Pet Immune Passive Infrared Motion Detector",
+      "url": "https://get-way.com/product/pyr-4122-analog-hardwire-pet-immune-passive-infrared-motion-detector/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/PYR-4122-.jpg",
+      "local_image": "images/products/d3b5fa1aeccbf151.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 7132,
+      "name": "Quantum card printer",
+      "url": "https://get-way.com/product/quantum-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/Quantum-front.jpg",
+      "local_image": "images/products/26433ca1bda0f724.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8110,
+      "name": "R1 Ribbon Printer",
+      "url": "https://get-way.com/product/r1-ribbon-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/04/product26160306520741903.jpg",
+      "local_image": "images/products/04c349ad88ef1b39.webp",
+      "source_categories": [
+        "Others"
+      ]
+    },
+    {
+      "source_id": 8685,
+      "name": "Refurbishing Cleaning Stripe for Matica Espresso printer",
+      "url": "https://get-way.com/product/refurbishing-cleaning-stripe/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/pr000251-refurbishing-stripe.jpg",
+      "local_image": "images/products/8bacceded2e9ccd2.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 7402,
+      "name": "Regular Cleaning Kit",
+      "url": "https://get-way.com/product/regular-cleaning-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/acl001.jpg",
+      "local_image": "images/products/2d53c5396a19ae9a.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 8382,
+      "name": "RF Hand Free Card (433.9 MHz, reading range 6m)",
+      "url": "https://get-way.com/product/rf-hand-free-card-433-9-mhz-reading-range-6m/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PFH-620-1.png",
+      "local_image": "images/products/adfc489fd038783d.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8751,
+      "name": "RLS1000 Barcode Label Scale",
+      "url": "https://get-way.com/product/rls1000-barcode-label-scale/",
+      "source_image": "https://get-way.com/wp-content/uploads/2021/06/1-1.jpg",
+      "local_image": "images/products/8bb25c9a5e8c6ffb.webp",
+      "source_categories": [
+        "Barcode Printers"
+      ]
+    },
+    {
+      "source_id": 9329,
+      "name": "RLS1100USW Barcode Label Weighing Scale",
+      "url": "https://get-way.com/product/rls1100usw-barcode-label-weighing-scale/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/06/991e2bf526ca1087d9aefa0d90c8722e_medium.jpg",
+      "local_image": "images/products/64d019552bdcccee.webp",
+      "source_categories": [
+        "Barcode Printers"
+      ]
+    },
+    {
+      "source_id": 7989,
+      "name": "RP327 80mm Thermal Receipt Printer",
+      "url": "https://get-way.com/product/rp327-80mm-thermal-receipt-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/p20171016131624247.jpg",
+      "local_image": "images/products/42609196ba4412fd.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 7977,
+      "name": "RP58E 58mm Thermal Receipt Printer",
+      "url": "https://get-way.com/product/rp58e-58mm-thermal-receipt-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/p201612260026202014-scaled.jpg",
+      "local_image": "images/products/b9c0bfbb4cca18df.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8018,
+      "name": "RP58U 58mm Thermal Receipt Printer",
+      "url": "https://get-way.com/product/rp58u-58mm-thermal-receipt-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/p201612260026202014-scaled.jpg",
+      "local_image": "images/products/b9c0bfbb4cca18df.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 7991,
+      "name": "RP76II 76mm Impact Receipt Printer – Double color",
+      "url": "https://get-way.com/product/rp76ii-76mm-impact-receipt-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/download.jpeg",
+      "local_image": "images/products/6091fcc4700a50ae.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 7995,
+      "name": "RP76II 76mm Impact Receipt Printer – Single color",
+      "url": "https://get-way.com/product/rp76ii-76mm-impact-receipt-printer-single-color/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/download.jpeg",
+      "local_image": "images/products/6091fcc4700a50ae.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 7996,
+      "name": "RP76III 76mm Impact Receipt Printer",
+      "url": "https://get-way.com/product/rp76iii-76mm-impact-receipt-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/RP76III-Dot-Matrix-Impact-Receipt-Printer-with-Easy-Paper-Loading.jpg",
+      "local_image": "images/products/a149f9694d1c9be2.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 7999,
+      "name": "RP80USE Thermal Printer",
+      "url": "https://get-way.com/product/rp80use-thermal-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/RP80USE.jpg",
+      "local_image": "images/products/9e1305cabd267d1a.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8019,
+      "name": "RP80W Thermal Printer",
+      "url": "https://get-way.com/product/rp80w-thermal-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/RP80USE.jpg",
+      "local_image": "images/products/9e1305cabd267d1a.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 7981,
+      "name": "RP835 Impact Receipt Printer",
+      "url": "https://get-way.com/product/rp835-impact-receipt-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/p201612263326292914-scaled.jpg",
+      "local_image": "images/products/40c503aef503a873.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8033,
+      "name": "RP850UP 80mm Thermal Receipt Printer",
+      "url": "https://get-way.com/product/rp850up-80mm-thermal-receipt-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/01/RP850UP.jpg",
+      "local_image": "images/products/450c8b06a8244239.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8020,
+      "name": "RP850UP-F 80mm Thermal Receipt Printer with flash light",
+      "url": "https://get-way.com/product/rp850-80mm-thermal-receipt-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/RP850.jpg",
+      "local_image": "images/products/1735de36d0795e3f.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8035,
+      "name": "RP850US 80mm Thermal Receipt Printer",
+      "url": "https://get-way.com/product/rp850us-80mm-thermal-receipt-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/01/RP850UP.jpg",
+      "local_image": "images/products/450c8b06a8244239.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8037,
+      "name": "RP850US-F 80mm Thermal Receipt Printer with flash light",
+      "url": "https://get-way.com/product/rp850us-f-80mm-thermal-receipt-printer-with-flash-light/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/RP850.jpg",
+      "local_image": "images/products/1735de36d0795e3f.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8036,
+      "name": "RP850USE 80mm Thermal Receipt Printer",
+      "url": "https://get-way.com/product/rp850use-80mm-thermal-receipt-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/01/RP850UP.jpg",
+      "local_image": "images/products/450c8b06a8244239.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8038,
+      "name": "RP850USE-F 80mm Thermal Receipt Printer with flash light",
+      "url": "https://get-way.com/product/rp850use-f-80mm-thermal-receipt-printer-with-flash-light/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/RP850.jpg",
+      "local_image": "images/products/1735de36d0795e3f.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 7984,
+      "name": "RPP02N 58mm Thermal Mobile Printer",
+      "url": "https://get-way.com/product/rpp02n-58mm-thermal-mobile-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/p20171017391738385.jpg",
+      "local_image": "images/products/e63102120ab646f0.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8014,
+      "name": "RPP200BU 48mm Thermal Mobile Printer",
+      "url": "https://get-way.com/product/rpp200bu-48mm-thermal-mobile-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/RPP200BWU.jpg",
+      "local_image": "images/products/5fd1c3b2c532afaf.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8005,
+      "name": "RPP200BWU 48mm Thermal Mobile Printer",
+      "url": "https://get-way.com/product/rpp200-48mm-thermal-mobile-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/RPP200BWU.jpg",
+      "local_image": "images/products/5fd1c3b2c532afaf.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8015,
+      "name": "RPP200WU 48mm Thermal Mobile Printer",
+      "url": "https://get-way.com/product/rpp200wu-48mm-thermal-mobile-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/RPP200BWU.jpg",
+      "local_image": "images/products/5fd1c3b2c532afaf.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 9663,
+      "name": "RPP300 Grey UBW",
+      "url": "https://get-way.com/product/rpp300-grey-ubw/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/maxresdefault.jpg",
+      "local_image": "images/products/be5dbce5f19d1f9c.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8016,
+      "name": "RPP300BU 72mm Mobile Printer",
+      "url": "https://get-way.com/product/rpp300bu-72mm-mobile-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/RPP300.jpg",
+      "local_image": "images/products/e1754468cd2c44e8.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8011,
+      "name": "RPP300BWU 72mm Mobile Printer",
+      "url": "https://get-way.com/product/rpp300-72mm-mobile-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/RPP300.jpg",
+      "local_image": "images/products/e1754468cd2c44e8.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8017,
+      "name": "RPP300WU 72mm Mobile Printer",
+      "url": "https://get-way.com/product/rpp300wu-72mm-mobile-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/maxresdefault.jpg",
+      "local_image": "images/products/be5dbce5f19d1f9c.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 9666,
+      "name": "RPW210 2” Wristband Printer",
+      "url": "https://get-way.com/product/rpw210-2-wristband-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/07/2.jpg",
+      "local_image": "images/products/369b8ec98c676475.webp",
+      "source_categories": [
+        "Others"
+      ]
+    },
+    {
+      "source_id": 8375,
+      "name": "RS-232 to RS-485 Interface Converter",
+      "url": "https://get-way.com/product/rs-232-to-rs-485-interface-converter/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PCT-R2R5.png",
+      "local_image": "images/products/c1ac12d08eaea5f0.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 9498,
+      "name": "RS-232 to RS-485 Long Range Converter",
+      "url": "https://get-way.com/product/rs-232-to-rs-485-long-range-converter/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/10/OIP.jpeg",
+      "local_image": "images/products/f19b1a1724ab3d14.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7600,
+      "name": "RS422/RS485/TLL to RS232 Converter",
+      "url": "https://get-way.com/product/rs422rs485tll-to-rs232-converter/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/PC-R245T.jpg",
+      "local_image": "images/products/2a6338b31ee0e1de.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 9028,
+      "name": "SA-01PW Digital Wired PET immune Passive Infrared Motion Detector",
+      "url": "https://get-way.com/product/sa-01pw-digital-wired-pet-immune-passive-infrared-motion-detector/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/SA-01PW-1.jpg",
+      "local_image": "images/products/f93e32128f675d68.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9030,
+      "name": "SA-21 Wired Vibration Detector",
+      "url": "https://get-way.com/product/sa-21-wired-vibration-detector/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/SA-21-.jpg",
+      "local_image": "images/products/4f8a9574807a301c.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9076,
+      "name": "SA-31 Wired Flood Detector",
+      "url": "https://get-way.com/product/sa-31-wired-flood-detector/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/SA-31-IMAGE.jpg",
+      "local_image": "images/products/e785b5a6c4e24dad.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9032,
+      "name": "SA-64-2W 2-Wire Photoelectric Smoke Detector",
+      "url": "https://get-way.com/product/sa-64-2w-2-wire-photoelectric-smoke-detector/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/SA-64-2W-.jpg",
+      "local_image": "images/products/9b0e72890eb8938a.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9034,
+      "name": "SA-64-3W Hardwired Photoelectric Smoke Detector",
+      "url": "https://get-way.com/product/sa-64-3w-hardwired-photoelectric-smoke-detector/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/SA-64-3W-.jpg",
+      "local_image": "images/products/024c813cce879a16.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9036,
+      "name": "SA-71 Digital Active Infrared Sensor",
+      "url": "https://get-way.com/product/sa-71-digital-active-infrared-sensor/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/SA-71-1.jpg",
+      "local_image": "images/products/76b69eee84b97bb9.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9038,
+      "name": "SA-91 Hardwire Piezoelectric Siren &amp; Strobe",
+      "url": "https://get-way.com/product/sa-91-hardwire-piezoelectric-siren-strobe/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/SA-91-.jpg",
+      "local_image": "images/products/9d5abc2733964c17.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9040,
+      "name": "SA-95 Hardwire Mini Piezoelectric Siren &amp; Strobe",
+      "url": "https://get-way.com/product/sa-95-hardwire-mini-piezoelectric-siren-strobe/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/SA-95-.jpg",
+      "local_image": "images/products/78bf36b92ed55cd9.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 7721,
+      "name": "SDK-SIMFlash",
+      "url": "https://get-way.com/product/sdk-simflash/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/acr100-sdk.jpg",
+      "local_image": "images/products/cecc7849c766eb40.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 8661,
+      "name": "Service Cleaning Kit for Espresso printer",
+      "url": "https://get-way.com/product/service-cleaning-kit-for-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/Matica-Service-Cleaning-Kit-PR000197.png",
+      "local_image": "images/products/dc5f3f219d4cf13a.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 9107,
+      "name": "SH-02 Surface Mount Magnetic Contact",
+      "url": "https://get-way.com/product/sh-02-surface-mount-magnetic-contact/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/SH-02-IMAGE.jpg",
+      "local_image": "images/products/d7003d1797e23908.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 9042,
+      "name": "SH-12 Press Fit Magnetic Contact",
+      "url": "https://get-way.com/product/sh-12-press-fit-magnetic-contact/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/SH-12-.jpg",
+      "local_image": "images/products/c9d8ef7128a60cf4.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 7193,
+      "name": "Sig 200 Signature pad",
+      "url": "https://get-way.com/product/sig100-sig-200-signature-pads/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/sig-200.jpg",
+      "local_image": "images/products/24df2eeaaa055995.webp",
+      "source_categories": [
+        "Signature Pads"
+      ]
+    },
+    {
+      "source_id": 8060,
+      "name": "Sig100 Signature pad",
+      "url": "https://get-way.com/product/sig100-signature-pad/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/02/tablette_de_signature_sig100.png",
+      "local_image": "images/products/cf60b932df6ba7df.webp",
+      "source_categories": [
+        "Signature Pads"
+      ]
+    },
+    {
+      "source_id": 7716,
+      "name": "SIMmate2 SIM Management Package",
+      "url": "https://get-way.com/product/simmate2-sim-management-package/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/05/ACR38T-IBS.jpg",
+      "local_image": "images/products/dea8ebc3ed9401af.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 8572,
+      "name": "Slim Economic Wiegand Reader (EM)",
+      "url": "https://get-way.com/product/economic-wiegand-reader-em-2/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/CR2-R-EM.png",
+      "local_image": "images/products/dd262ce736bbd57f.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8445,
+      "name": "Smart Card Reader",
+      "url": "https://get-way.com/product/smart-card-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/acr39u.png",
+      "local_image": "images/products/353282a94e34cb81.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7627,
+      "name": "Smart magnetic stripe card access controller (Standalone/On-line)",
+      "url": "https://get-way.com/product/smart-magnetic-stripe-card-access-controller-standaloneon-line/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/PG-878-PG-707.jpg",
+      "local_image": "images/products/6831535eb42d8c6c.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7754,
+      "name": "Software Development Kit ACOS5",
+      "url": "https://get-way.com/product/software-development-kit-acos5/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/06/ACOS5-SDK.jpg",
+      "local_image": "images/products/4195165b7995f47b.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7752,
+      "name": "Software Development Kit AET63 BioTrust Key",
+      "url": "https://get-way.com/product/software-development-kit-aet63-biotrust-key/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/06/sdk-AET63.gif",
+      "local_image": "images/products/0f71499a8570bc23.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 7642,
+      "name": "Special Black-flex monochrome ribbon cassette",
+      "url": "https://get-way.com/product/special-black-flex-monochrome-ribbon-cassette/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/BLACKFLEX.png",
+      "local_image": "images/products/2bd08deebd22431a.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7640,
+      "name": "Special SCRATCH OFF monochrome ribbon cassette",
+      "url": "https://get-way.com/product/special-scratch-off-monochrome-ribbon-cassette/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/Scratch-off_mono_ribbon.png",
+      "local_image": "images/products/ed782ce0d1adf048.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7644,
+      "name": "Special Signature panel monochrome ribbon cassette",
+      "url": "https://get-way.com/product/special-signature-panel-monochrome-ribbon-cassette/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/Signature_mono_ribbon.png",
+      "local_image": "images/products/e3422a063fc60608.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7855,
+      "name": "Spot Camera",
+      "url": "https://get-way.com/product/spot-camera/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-SDSO70E.jpg",
+      "local_image": "images/products/18812f8097d198c2.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 9655,
+      "name": "SpringCard USB &amp; PC/SC contactless reader",
+      "url": "https://get-way.com/product/springcard-usb-pc-sc-contactless-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/06/1.jpg",
+      "local_image": "images/products/977534a0284a0365.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 9634,
+      "name": "ST10-65LR-BTU Wired Industrial Barcode Scanner with Base",
+      "url": "https://get-way.com/product/st10-65lr-btu-wired-industrial-barcode-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/05/1.jpg",
+      "local_image": "images/products/5deb2778d0990cc8.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 9645,
+      "name": "Stainless Switch ON/OFF",
+      "url": "https://get-way.com/product/stainless-switch-on-off/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/04/Stainless-switch-on-off.jpg",
+      "local_image": "images/products/17d672743f903ff6.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8550,
+      "name": "Standalone face recognition time attendance",
+      "url": "https://get-way.com/product/standalone-face-recognition-time-attendance/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/F11.png",
+      "local_image": "images/products/fc7b4cd0066de101.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8145,
+      "name": "Standard Black monochrome ribbon cassette RCT023NAA",
+      "url": "https://get-way.com/product/standard-black-monochrome-ribbon-cassette-rct023naa/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/02/black_mono_rct023naa-scaled.jpg",
+      "local_image": "images/products/82f0908c89ec2dad.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8159,
+      "name": "Standard Blue monochrome ribbon cassette",
+      "url": "https://get-way.com/product/standard-blue-monochrome-ribbon-cassette/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/rct012naa.jpg",
+      "local_image": "images/products/fc7930f5bc83122b.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8153,
+      "name": "Standard Blue monochrome ribbon cassette RCT012NAA",
+      "url": "https://get-way.com/product/standard-blue-monochrome-ribbon-cassette-rct012naa/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/rct012naa.jpg",
+      "local_image": "images/products/fc7930f5bc83122b.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8652,
+      "name": "Standard Cleaning Kit for Espresso printer",
+      "url": "https://get-way.com/product/standard-cleaning-kit-for-espresso-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/kit-de-nettoyage-ref-pr000196-scaled.jpg",
+      "local_image": "images/products/250006bf639bed30.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 8160,
+      "name": "Standard Green monochrome ribbon cassette",
+      "url": "https://get-way.com/product/standard-green-monochrome-ribbon-cassette/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/zenius-ribbon-green.png",
+      "local_image": "images/products/68ab183048e4bc09.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8157,
+      "name": "Standard Green monochrome ribbon cassette RCT014NAA",
+      "url": "https://get-way.com/product/standard-green-monochrome-ribbon-cassette-rct014naa/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/zenius-ribbon-green.png",
+      "local_image": "images/products/68ab183048e4bc09.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7367,
+      "name": "Standard monochrome ribbon cassette",
+      "url": "https://get-way.com/product/standard-monochrome-ribbon-cassette/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/02/black_mono_rct023naa-scaled.jpg",
+      "local_image": "images/products/82f0908c89ec2dad.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8161,
+      "name": "Standard Red monochrome ribbon cassette",
+      "url": "https://get-way.com/product/standard-red-monochrome-ribbon-cassette/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/rct013naa.png",
+      "local_image": "images/products/b79cfe25dbd3be9b.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8155,
+      "name": "Standard Red monochrome ribbon cassette RCT013NAA",
+      "url": "https://get-way.com/product/standard-red-monochrome-ribbon-cassette-rct013naa/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/rct013naa.png",
+      "local_image": "images/products/b79cfe25dbd3be9b.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8162,
+      "name": "Standard White monochrome ribbon cassette",
+      "url": "https://get-way.com/product/standard-white-monochrome-ribbon-cassette/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/RCT015NAA.jpg",
+      "local_image": "images/products/be27c765c8d63401.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8143,
+      "name": "Standard White monochrome ribbon cassette RCT015NAA",
+      "url": "https://get-way.com/product/standard-white-monochrome-ribbon-cassette-rct015naa/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/RCT015NAA.jpg",
+      "local_image": "images/products/be27c765c8d63401.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7965,
+      "name": "STARTEK FCS100 Fingerprint Reader",
+      "url": "https://get-way.com/product/startek-fcs100-fingerprint-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/FCS100-scaled.jpg",
+      "local_image": "images/products/6082d365a1c34858.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 7966,
+      "name": "STARTEK FG70-8M Fingerprint Time Attendance and Access Control System",
+      "url": "https://get-way.com/product/startek-fg70-8m-fingerprint-time-attendance-and-access-control-system/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/FG70-8M-scaled.jpg",
+      "local_image": "images/products/fc3dd37577ffda88.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 7963,
+      "name": "STARTEK FM200 Optical Reader",
+      "url": "https://get-way.com/product/startek-fm200-fingerprint-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/FM200U.png",
+      "local_image": "images/products/c842448a877328c8.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 7969,
+      "name": "STARTEK MKC200 Mykey Mouse",
+      "url": "https://get-way.com/product/startek-mkc200-mykey-mouse/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/12/MKC2002-scaled.jpg",
+      "local_image": "images/products/c43d1159b92677a4.webp",
+      "source_categories": [
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 7841,
+      "name": "Super LoLux MCCD Camera",
+      "url": "https://get-way.com/product/super-lolux-mccd-camera/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/TT-B7MD85C.png",
+      "local_image": "images/products/636cdd5ee8346ccd.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 7408,
+      "name": "T Card Cleaning Kit",
+      "url": "https://get-way.com/product/t-card-cleaning-kit/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/Evolis-ACL004.jpg",
+      "local_image": "images/products/ed1f2f569d0168df.webp",
+      "source_categories": [
+        "Cleaning kits"
+      ]
+    },
+    {
+      "source_id": 8149,
+      "name": "T Card Cleaning Kit for Edikio ACL004",
+      "url": "https://get-way.com/product/t-card-cleaning-kit-for-edikio-acl004/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/Evolis-ACL004.jpg",
+      "local_image": "images/products/ed1f2f569d0168df.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8120,
+      "name": "T4 Desktop Label Printer",
+      "url": "https://get-way.com/product/t4-desktop-label-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/04/T4_Label_Printer_left.jpg",
+      "local_image": "images/products/a5863b6c0657ad7f.webp",
+      "source_categories": [
+        "Others"
+      ]
+    },
+    {
+      "source_id": 8116,
+      "name": "T43R Care Label Printer",
+      "url": "https://get-way.com/product/t43r-care-label-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/04/sbarco_sbarco-t43r-care-label-printer_full02.jpg",
+      "local_image": "images/products/1c524381d65bcf58.webp",
+      "source_categories": [
+        "Others"
+      ]
+    },
+    {
+      "source_id": 8124,
+      "name": "T4e+ Desktop label printer",
+      "url": "https://get-way.com/product/t4e-desktop-label-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/04/sbarco-t4e-barkod-yazici-4.jpg",
+      "local_image": "images/products/67a5cd00a5bb34db.webp",
+      "source_categories": [
+        "Others"
+      ]
+    },
+    {
+      "source_id": 7148,
+      "name": "Tattoo Rewrite Basic Printer",
+      "url": "https://get-way.com/product/tattoo-rewrite-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/TattooRW-profile_0.jpg",
+      "local_image": "images/products/f4096a8d2b7b2cef.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 9637,
+      "name": "TC11N Copy vending by debit cards",
+      "url": "https://get-way.com/product/tc11n-copy-vending-by-debit-cards/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/01/PHOTO-1.jpg",
+      "local_image": "images/products/ec489b3f340f513d.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 8365,
+      "name": "TCP/IP Ethernet Converter",
+      "url": "https://get-way.com/product/tcpip-ethernet-converter/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PC-T100H-2.png",
+      "local_image": "images/products/1f7bd951bf26e964.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8554,
+      "name": "TCP/IP face recognition / Time &amp; Attendance",
+      "url": "https://get-way.com/product/tcpip-face-recognition-time-attendance/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/F12.png",
+      "local_image": "images/products/e89de25523ee2330.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8031,
+      "name": "Thermal Receipt Printer RP820UP-F",
+      "url": "https://get-way.com/product/thermal-receipt-printer-rp820up-f/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/4d31.jpg",
+      "local_image": "images/products/1fe208521ce8b6e1.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8032,
+      "name": "Thermal Receipt Printer RP820US-F",
+      "url": "https://get-way.com/product/thermal-receipt-printer-rp820us-f/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/4d31.jpg",
+      "local_image": "images/products/1fe208521ce8b6e1.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 7670,
+      "name": "Thermal Receipt Printer RP820USE-F",
+      "url": "https://get-way.com/product/thermal-receipt-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/rp820-black.jpg",
+      "local_image": "images/products/97eebbec97cc1962.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8030,
+      "name": "Thermal Receipt Printer RP820USE-G-F",
+      "url": "https://get-way.com/product/thermal-receipt-printer-rp820use-g-f/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/RP820-gold.jpg",
+      "local_image": "images/products/4e20f995e6c94bfc.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8838,
+      "name": "Thermal Rolls 55GSM",
+      "url": "https://get-way.com/product/thermal-rolls-55gsm/",
+      "source_image": "https://get-way.com/wp-content/uploads/2021/11/Watex_thermal-paper-roll-79mm-x-60mm-x13mm-600x600.jpg",
+      "local_image": "images/products/6c2663248544454c.webp",
+      "source_categories": [
+        "Receipt Printers"
+      ]
+    },
+    {
+      "source_id": 8974,
+      "name": "Thermal Transfer Label Standard",
+      "url": "https://get-way.com/product/thermal-transfer-label-standard/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/06/label.jpg",
+      "local_image": "images/products/3323ebc67d849546.webp",
+      "source_categories": [
+        "Label Printers"
+      ]
+    },
+    {
+      "source_id": 9321,
+      "name": "Time Recording Access Controller- 8033",
+      "url": "https://get-way.com/product/time-recording-access-controller-8033/",
+      "source_image": "https://get-way.com/wp-content/uploads/2024/05/PFP-8032.jpg",
+      "local_image": "images/products/1373d6fd7d0c6f04.webp",
+      "source_categories": [
+        "Access Control",
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 9706,
+      "name": "TTLock Touchscreen H5-Ble+WIFI",
+      "url": "https://get-way.com/product/ttlock-touchscreen-h5-blewifi/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/09/2.jpg",
+      "local_image": "images/products/7eee28104560a3ab.webp",
+      "source_categories": [
+        "Access Control",
+        "Biometrics"
+      ]
+    },
+    {
+      "source_id": 7285,
+      "name": "Two Doors Access Controller",
+      "url": "https://get-way.com/product/pc-6750c2/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/Access-controller-PP-6750V.jpg",
+      "local_image": "images/products/498aa177fb28c19d.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8674,
+      "name": "Two-door TCP/IP Controller",
+      "url": "https://get-way.com/product/two-door-tcpip-controller/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/C2.png",
+      "local_image": "images/products/4ac8b2ce8f39b4d5.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8416,
+      "name": "UHF Adhesive Label",
+      "url": "https://get-way.com/product/uhf-adhesive-label/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PG-PROXL-6C-B2.png",
+      "local_image": "images/products/c0505e88088796be.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8414,
+      "name": "UHF Adhesive Label (Transparent)",
+      "url": "https://get-way.com/product/uhf-adhesive-label-transparent/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PG-PROXL-UHF-A.png",
+      "local_image": "images/products/56b0eaf0c166b408.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8412,
+      "name": "UHF Adhesive Label (Vehicle anti-dismantle tag)",
+      "url": "https://get-way.com/product/uhf-adhesive-label-vehicle-anti-dismantle-tag/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PG-PROXL-UHF-6C-A-B1.png",
+      "local_image": "images/products/42bf546b52c3764a.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8418,
+      "name": "UHF Adhesive Label(Transparent)",
+      "url": "https://get-way.com/product/uhf-adhesive-labeltransparent/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PG-PROXL-6C-UHF-B1.png",
+      "local_image": "images/products/c0c3d29b34e5568b.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8422,
+      "name": "UHF RFID Card",
+      "url": "https://get-way.com/product/uhf-rfid-card/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PG-PROXC-UHF-B1.png",
+      "local_image": "images/products/660b6370dafa21b4.webp",
+      "source_categories": [
+        "Access Control",
+        "PVC cards"
+      ]
+    },
+    {
+      "source_id": 8377,
+      "name": "USB Fingerprint Scanner",
+      "url": "https://get-way.com/product/usb-fingerprint-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PFP-372DU2.png",
+      "local_image": "images/products/023c3f2a5f394dbc.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8371,
+      "name": "USB to RS-232 Interface Converter",
+      "url": "https://get-way.com/product/usb-to-rs-232-interface-converter/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PCT-UR2.png",
+      "local_image": "images/products/446fe55de4f05402.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8373,
+      "name": "USB to RS-485 Interface Converter",
+      "url": "https://get-way.com/product/usb-to-rs-485-interface-converter/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PCT-UR5.png",
+      "local_image": "images/products/65cb780b270c2a9d.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7853,
+      "name": "Vandalproof Outdoor Metal IR Dome",
+      "url": "https://get-way.com/product/vandalproof-outdoor-metal-ir-dome/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/07/1441163263.jpg",
+      "local_image": "images/products/733e67484faa0fea.webp",
+      "source_categories": [
+        "CCTV"
+      ]
+    },
+    {
+      "source_id": 9188,
+      "name": "WalletMate Mobile Wallet NFC Reader (Apple VAS &amp; Google Smart Tap Certified)",
+      "url": "https://get-way.com/product/walletmate-mobile-wallet-nfc-reader-apple-vas-google-smart-tap-certified/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/11/12387-thumb.png",
+      "local_image": "images/products/9bce039eb89582dd.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 8564,
+      "name": "Waterproof FingerKey",
+      "url": "https://get-way.com/product/waterproof-fingerkey/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/SF2.png",
+      "local_image": "images/products/2ad4118e0275628c.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8559,
+      "name": "Waterproof Fingerprint &amp; RFID Reader",
+      "url": "https://get-way.com/product/waterproof-fingerprint-rfid-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/SF1.png",
+      "local_image": "images/products/89a597d99d4ccf9e.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8591,
+      "name": "Waterproof Proximity Reader (EM/HID/Mifare)",
+      "url": "https://get-way.com/product/waterproof-proximity-reader-emhidmifare/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/S2-RX.png",
+      "local_image": "images/products/8e661553929dca33.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8597,
+      "name": "Waterproof Reader",
+      "url": "https://get-way.com/product/waterproof-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/S3-RX.png",
+      "local_image": "images/products/3cb00dbc090bc6e1.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8584,
+      "name": "Waterproof Wiegand Reader (E/H/Mifare)",
+      "url": "https://get-way.com/product/waterproof-wiegand-reader-ehmifare/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/S1-RX.png",
+      "local_image": "images/products/910b248d43369474.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8667,
+      "name": "Waterproof Wireless DIY Lock Kit (D5)",
+      "url": "https://get-way.com/product/waterproof-wireless-diy-lock-kit-d5/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/D5N.png",
+      "local_image": "images/products/2925af563225478f.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8671,
+      "name": "Waterproof Wireless DIY Lock Kit (D5N)",
+      "url": "https://get-way.com/product/waterproof-wireless-diy-lock-kit-d5n/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/D5N.png",
+      "local_image": "images/products/2925af563225478f.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8429,
+      "name": "Weather Proof Electromagnetic Lock (180Kgs)",
+      "url": "https://get-way.com/product/weather-proof-electromagnetic-lock/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PGL-180.png",
+      "local_image": "images/products/0a6cd7b6cec052e6.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 7608,
+      "name": "Weatherproof digital access control keypad",
+      "url": "https://get-way.com/product/weatherproof-digital-access-control-keypad/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/PG-104K.jpg",
+      "local_image": "images/products/555d13adf3c73a1c.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8179,
+      "name": "Wide price ticket spikes (100mm height)",
+      "url": "https://get-way.com/product/wide-price-ticket-spikes-100mm-height/",
+      "source_image": "https://get-way.com/wp-content/uploads/2018/06/AC000004.jpg",
+      "local_image": "images/products/bfe975d8d5eb57b5.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8604,
+      "name": "Wiegand Reader (EM)",
+      "url": "https://get-way.com/product/wiegand-reader-em/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/SK2-R-EM.png",
+      "local_image": "images/products/7b61c283b957bc79.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8608,
+      "name": "Wiegand Reader (Mifare)",
+      "url": "https://get-way.com/product/wiegand-reader-mifare/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/SK2-R-MF.png",
+      "local_image": "images/products/d5542217c71a0741.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 8580,
+      "name": "Wireless Reader",
+      "url": "https://get-way.com/product/wireless-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/WR1-EM.png",
+      "local_image": "images/products/839c5402328c325b.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 9612,
+      "name": "WNI-8364P – 2D Wireless Barcode Scanner with Dongle",
+      "url": "https://get-way.com/product/wni-8364p-2d-wireless-barcode-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2025/11/蓝牙扫描器-1.5彩屏.png",
+      "local_image": "images/products/0923e473df944ad1.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 9621,
+      "name": "WNI-C132/Y – Wireless Barcode Scanner with Dongle",
+      "url": "https://get-way.com/product/wni-c132-y-wireless-barcode-scanner-with-dongle/",
+      "source_image": "https://get-way.com/wp-content/uploads/2025/11/1.jpg",
+      "local_image": "images/products/b72f3250553969e2.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 9600,
+      "name": "WST-9260LR-BTU Wireless Barcode Scanner with Base",
+      "url": "https://get-way.com/product/wst-9260lr-btu-wireless-barcode-scanner/",
+      "source_image": "https://get-way.com/wp-content/uploads/2025/11/WST-92XX-BT-1-.png",
+      "local_image": "images/products/027064e675c255b6.webp",
+      "source_categories": [
+        "Barcode Scanners & Price Checkers"
+      ]
+    },
+    {
+      "source_id": 9674,
+      "name": "XPass D2 Outdoor Compact RFID Reader",
+      "url": "https://get-way.com/product/xpass-d2-outdoor-compact-rfid-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/08/xpass-d2-1.jpg",
+      "local_image": "images/products/450075a354277d7d.webp",
+      "source_categories": [
+        "Access Control"
+      ]
+    },
+    {
+      "source_id": 9119,
+      "name": "Y12FE-150-0800G / 0204 AC-DC Adapter",
+      "url": "https://get-way.com/product/y12fe-150-0800g-0204-ac-dc-adapter/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/08/Y12-FE-mod.jpg",
+      "local_image": "images/products/474b1d8e8c43554a.webp",
+      "source_categories": [
+        "Security Products"
+      ]
+    },
+    {
+      "source_id": 7398,
+      "name": "YMCK RT Color Ribbon",
+      "url": "https://get-way.com/product/ymck-rt-color-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/color_ribbon_ymck_rt_640480.jpg",
+      "local_image": "images/products/1fb58b564647c908.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7647,
+      "name": "YMCK-K RT Color Ribbon",
+      "url": "https://get-way.com/product/ymck-k-rt-color-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/color_ribbon_ymckk_rt_640480.jpg",
+      "local_image": "images/products/9f32bda152ba44ea.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7651,
+      "name": "YMCKI RT Color Ribbon for cards with Mag Stripe and/or Chip",
+      "url": "https://get-way.com/product/ymcki-rt-color-ribbon-for-cards-with-mag-stripe-andor-chip/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/03/color_ribbon_ymck_rt_640480-1.jpg",
+      "local_image": "images/products/72e2303103229b7e.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8528,
+      "name": "YMCKO Color Ribbon for Matica Espresso ll printer",
+      "url": "https://get-way.com/product/ymcko-color-ribbon-for-matica-espresso-ll-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PR000031_front-1.jpg",
+      "local_image": "images/products/709ff34c2b97c63e.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7166,
+      "name": "YMCKO ribbon",
+      "url": "https://get-way.com/product/ymcko-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/s1.jpg",
+      "local_image": "images/products/7df8f5d73d9010c7.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7110,
+      "name": "YMCKO ribbon cassette",
+      "url": "https://get-way.com/product/ymcko-ribbon-cassette-copy-copy/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/YMCKO-ribbon.jpg",
+      "local_image": "images/products/4dfcbb0f26a4bf3a.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7099,
+      "name": "YMCKO ribbon cassette (300 Prints/Roll)",
+      "url": "https://get-way.com/product/ymcko-ribbon-cassette/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/YMCKO-ribbon.jpg",
+      "local_image": "images/products/4dfcbb0f26a4bf3a.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8151,
+      "name": "YMCKO ribbon cassette (300 Prints/Roll) R5F008EAA",
+      "url": "https://get-way.com/product/ymcko-ribbon-cassette-300-printsroll-r5f008eaa/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/YMCKO-ribbon.jpg",
+      "local_image": "images/products/4dfcbb0f26a4bf3a.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 8150,
+      "name": "YMCKO ribbon cassette R5F002EAA",
+      "url": "https://get-way.com/product/ymcko-ribbon-cassette-r5f002eaa/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/YMCKO-ribbon.jpg",
+      "local_image": "images/products/4dfcbb0f26a4bf3a.webp",
+      "source_categories": [
+        "edikio"
+      ]
+    },
+    {
+      "source_id": 7164,
+      "name": "YMCKO-K ribbon",
+      "url": "https://get-way.com/product/ymcko-k-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/R3314_0.jpg",
+      "local_image": "images/products/77c86cfc8f086cd7.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7392,
+      "name": "YMCKO-K ribbon (800 Prints/Roll)",
+      "url": "https://get-way.com/product/ymcko-k-ribbon-800-printsroll/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/R3314_0.jpg",
+      "local_image": "images/products/77c86cfc8f086cd7.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8502,
+      "name": "YMCKOK color ribbon for Matica printers",
+      "url": "https://get-way.com/product/ymckok-color-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2019/11/PR000033.jpg",
+      "local_image": "images/products/8d6eb5aced3c759b.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 9695,
+      "name": "ZAH Customizable RFID QR Code Reader",
+      "url": "https://get-way.com/product/zah-customizable-rfid-qr-code-reader/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/09/1.jpeg",
+      "local_image": "images/products/a453069ed7856b4f.webp",
+      "source_categories": [
+        "Readers"
+      ]
+    },
+    {
+      "source_id": 8970,
+      "name": "Zebra ZXP Series 7-800077-711 Black Monochrome Ribbon",
+      "url": "https://get-way.com/product/zebra-zxp-series-7-800077-711-black-monochrome-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/06/800077-711.jpg",
+      "local_image": "images/products/c51e91ccf7b36690.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8972,
+      "name": "Zebra ZXP Series 7-800077-742 Color Ribbon YMCKO",
+      "url": "https://get-way.com/product/zebra-zxp-series-7-800077-742-color-ribbon-ymcko/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/06/800077-742.jpg",
+      "local_image": "images/products/ee1bf9cc306d5cca.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8952,
+      "name": "Zebra ZXP Series 8 Color Ribbons",
+      "url": "https://get-way.com/product/zebra-zxp-series-8-color-ribbons/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/05/zxp-8-color-ribbon-300x300.jpg",
+      "local_image": "images/products/781e0b6b08df2c7d.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8953,
+      "name": "Zebra ZXP Series 8 Retransfer Film",
+      "url": "https://get-way.com/product/zebra-zxp-series-8-retransfer-film/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/05/800012-601-1.jpg",
+      "local_image": "images/products/d44cf2572ed4fb86.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8964,
+      "name": "Zebra ZXP Series 8-800012-445 YMCK Color Ribbon",
+      "url": "https://get-way.com/product/zebra-zxp-series-8-800012-445-ymck-color-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/06/800012-445.jpg",
+      "local_image": "images/products/dfcbd74b2c28ccda.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8966,
+      "name": "Zebra ZXP Series 8-800012-445ME YMCK Color Ribbon",
+      "url": "https://get-way.com/product/zebra-zxp-series-8-800012-445me-ymck-color-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/06/800012-445.jpg",
+      "local_image": "images/products/dfcbd74b2c28ccda.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8959,
+      "name": "Zebra ZXP Series 8-800012-543 YMCUvK Ribbon",
+      "url": "https://get-way.com/product/zebra-zxp-series-8-800012-543-ymcuvk-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/06/800012-543.png",
+      "local_image": "images/products/400ead8742b784a4.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8969,
+      "name": "Zebra ZXP Series 8-800012-601ME Transfer Film",
+      "url": "https://get-way.com/product/zebra-zxp-series-8-800012-60me-transfer-film/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/06/800012-601.jpg",
+      "local_image": "images/products/edc0257ff793a4c4.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8967,
+      "name": "Zebra ZXP Series 8-800012-601Transfer Film",
+      "url": "https://get-way.com/product/zebra-zxp-series-8-800012-601transfer-film/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/06/800012-601.jpg",
+      "local_image": "images/products/edc0257ff793a4c4.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 8962,
+      "name": "Zebra ZXP Series 8-800012-901 Black Monochrome Ribbon",
+      "url": "https://get-way.com/product/zebra-zxp-series-8-800012-901-black-monochrome-ribbon/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/06/800012-901.jpg",
+      "local_image": "images/products/6c8f8ed79d597f48.webp",
+      "source_categories": [
+        "Ribbons"
+      ]
+    },
+    {
+      "source_id": 7807,
+      "name": "Zenius Classic",
+      "url": "https://get-way.com/product/zenius-classic/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/Zenius-profile.jpg",
+      "local_image": "images/products/f68ec62598564c09.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 7102,
+      "name": "Zenius Expert",
+      "url": "https://get-way.com/product/zenius-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2017/01/Zenius-profile.jpg",
+      "local_image": "images/products/f68ec62598564c09.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 9648,
+      "name": "Zenius2 Card Printer",
+      "url": "https://get-way.com/product/zenius2-card-printer/",
+      "source_image": "https://get-way.com/wp-content/uploads/2026/05/1.png",
+      "local_image": "images/products/64ff9fa793e8e9ac.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    },
+    {
+      "source_id": 8945,
+      "name": "ZXP Series 8™ retransfer card printer (Discontinued)",
+      "url": "https://get-way.com/product/zxp-series-8-retransfer-card-printer-discontinued/",
+      "source_image": "https://get-way.com/wp-content/uploads/2023/05/1.jpeg",
+      "local_image": "images/products/1a0b1b785c7f9daa.webp",
+      "source_categories": [
+        "Plastic Card Printers"
+      ]
+    }
+  ]
+}

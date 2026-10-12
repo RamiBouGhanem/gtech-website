@@ -1,0 +1,15 @@
+{
+  "name": "gtech-website",
+  "version": "2.0.0",
+  "private": true,
+  "description": "GTech website and content administration",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "setup": "node server/setup.cjs",
+    "dev": "node server/server.cjs",
+    "start": "node server/server.cjs",
+    "test": "node --test tests/admin.test.cjs"
+  }
+}
